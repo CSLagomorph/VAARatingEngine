@@ -1,0 +1,1001 @@
+,PreferedMajor,PreferedCollege,JobType,EnrollmentType,PreferedStartQuarter,ActualStartQuarter,PreferedNumberQuarters,ActualNumberQuarters,PreferedNumberofCore,ActualNumberofCore,SummerPref,ActualSummerPref,mathSequenceBreak,englishSequenceBreak
+0,Electrical Engineering,Central Washington University,Full Time,Part Time,Summer,Summer,28,12,5,6,yes,yes,47,72
+1,Construction Engineering,Walla Walla University,Part Time,Full Time,Summer,Fall,25,30,4,6,yes,no,80,74
+2,Computer Science,Western Washington University,Full Time,Full Time,Fall,Spring,7,13,5,5,yes,yes,98,43
+3,Aeronautical Engineering,University of Washington Seattle,Unemployed,Part Time,Winter,Summer,22,8,1,7,yes,no,87,40
+4,General Major,Seattle University,Unemployed,Full Time,Fall,Fall,29,15,3,4,no,yes,79,79
+5,Civil Engineering,Eastern Washington University,Unemployed,Part Time,Spring,Spring,10,3,6,2,yes,yes,88,55
+6,Civil Engineering,Seattle University,Part Time,Part Time,Summer,Winter,21,19,6,7,yes,no,41,53
+7,Mechanical Engineering,Eastern Washington University,Part Time,Full Time,Fall,Winter,9,14,2,7,yes,yes,21,82
+8,Aeronautical Engineering,Central Washington University,Full Time,Part Time,Summer,Winter,17,22,2,7,no,yes,2,50
+9,Electrical Engineering,Central Washington University,Part Time,Full Time,Spring,Summer,3,30,1,3,yes,yes,84,71
+10,General Major,Eastern Washington University,Full Time,Part Time,Spring,Fall,30,21,1,7,no,yes,25,67
+11,Chemical Engineering,University of Washington Seattle,Unemployed,Part Time,Fall,Fall,10,7,4,3,yes,yes,0,82
+12,Civil Engineering,Seattle University,Full Time,Full Time,Spring,Summer,8,29,6,7,yes,no,81,98
+13,Electrical Engineering,University of Washington Seattle,Unemployed,Full Time,Spring,Summer,14,23,4,1,no,no,37,75
+14,General Major,Seattle University,Unemployed,Full Time,Spring,Winter,21,7,6,2,no,no,17,46
+15,General Major,University of Washington Bothell,Part Time,Part Time,Summer,Spring,10,17,2,5,yes,no,90,43
+16,General Major,University of Washington Tacoma,Part Time,Part Time,Winter,Summer,8,22,6,1,no,yes,28,40
+17,General Major,Washington State University,Part Time,Part Time,Winter,Winter,22,28,2,6,yes,yes,70,100
+18,Chemical Engineering,University of Washington Tacoma,Full Time,Full Time,Winter,Fall,6,14,5,1,yes,no,82,58
+19,Chemical Engineering,Central Washington University,Full Time,Full Time,Spring,Winter,2,13,5,6,yes,yes,12,86
+20,Electrical Engineering,Western Washington University,Full Time,Part Time,Fall,Summer,2,7,6,3,yes,no,19,61
+21,Mechanical Engineering,Washington State University,Unemployed,Full Time,Winter,Spring,23,10,3,1,yes,no,60,90
+22,Construction Engineering,Washington State University,Full Time,Part Time,Fall,Winter,17,14,6,2,no,yes,2,74
+23,Mechanical Engineering,Eastern Washington University,Unemployed,Part Time,Summer,Fall,17,25,4,6,yes,yes,66,68
+24,Computer Science,Seattle University,Unemployed,Full Time,Summer,Spring,27,9,4,6,yes,yes,90,33
+25,Civil Engineering,Washington State University,Part Time,Part Time,Spring,Fall,25,10,3,1,yes,no,39,92
+26,Civil Engineering,University of Washington Bothell,Full Time,Full Time,Fall,Fall,15,13,6,0,yes,no,18,73
+27,Civil Engineering,Eastern Washington University,Full Time,Part Time,Spring,Summer,12,5,1,2,no,yes,30,93
+28,Civil Engineering,University of Washington Bothell,Part Time,Full Time,Winter,Spring,12,19,4,2,yes,no,67,80
+29,Construction Engineering,Eastern Washington University,Full Time,Full Time,Fall,Spring,22,26,4,3,no,yes,7,99
+30,General Major,Washington State University,Full Time,Full Time,Fall,Summer,15,13,1,6,yes,yes,88,69
+31,Civil Engineering,University of Washington Seattle,Part Time,Full Time,Fall,Winter,29,4,1,0,no,no,2,82
+32,Mechanical Engineering,Walla Walla University,Unemployed,Full Time,Summer,Winter,21,21,5,4,no,yes,77,71
+33,Civil Engineering,Eastern Washington University,Unemployed,Full Time,Winter,Summer,20,2,2,0,no,no,81,95
+34,Civil Engineering,University of Washington Tacoma,Part Time,Part Time,Winter,Summer,13,18,2,1,yes,no,10,42
+35,Civil Engineering,Eastern Washington University,Part Time,Full Time,Winter,Spring,19,18,6,0,yes,no,6,39
+36,Construction Engineering,Walla Walla University,Part Time,Part Time,Fall,Summer,3,11,3,5,no,no,100,97
+37,Electrical Engineering,Seattle University,Full Time,Part Time,Summer,Fall,20,9,3,2,yes,no,59,87
+38,Electrical Engineering,Washington State University,Full Time,Full Time,Spring,Fall,8,15,4,1,no,no,36,40
+39,Construction Engineering,Seattle University,Unemployed,Part Time,Winter,Winter,17,1,4,2,no,yes,5,79
+40,Electrical Engineering,Central Washington University,Unemployed,Full Time,Winter,Summer,3,9,3,3,no,no,93,69
+41,General Major,University of Washington Bothell,Unemployed,Part Time,Fall,Fall,14,2,5,3,no,yes,35,83
+42,Aeronautical Engineering,University of Washington Seattle,Unemployed,Part Time,Winter,Summer,16,4,2,5,yes,no,77,33
+43,Construction Engineering,Seattle University,Part Time,Part Time,Fall,Fall,1,10,2,7,yes,yes,16,57
+44,Chemical Engineering,University of Washington Bothell,Full Time,Full Time,Summer,Winter,25,23,1,1,no,yes,5,55
+45,General Major,Western Washington University,Full Time,Part Time,Fall,Winter,6,30,4,5,no,no,19,31
+46,Civil Engineering,Washington State University,Part Time,Full Time,Spring,Winter,28,18,1,1,yes,yes,46,49
+47,Civil Engineering,Western Washington University,Part Time,Part Time,Spring,Winter,22,6,2,6,yes,no,20,51
+48,Computer Science,University of Washington Seattle,Unemployed,Part Time,Spring,Fall,5,5,1,3,yes,yes,77,47
+49,Civil Engineering,Walla Walla University,Full Time,Full Time,Winter,Summer,13,30,1,7,no,no,11,63
+50,General Major,Walla Walla University,Part Time,Full Time,Spring,Spring,23,22,5,4,yes,no,55,75
+51,Chemical Engineering,Central Washington University,Unemployed,Part Time,Winter,Fall,18,30,2,1,yes,no,76,55
+52,Civil Engineering,Central Washington University,Unemployed,Part Time,Spring,Spring,9,3,6,0,no,yes,90,87
+53,Chemical Engineering,University of Washington Bothell,Part Time,Part Time,Winter,Spring,1,5,5,7,no,no,31,40
+54,General Major,Central Washington University,Unemployed,Full Time,Fall,Spring,2,11,1,6,no,yes,47,49
+55,Mechanical Engineering,University of Washington Tacoma,Part Time,Full Time,Summer,Spring,22,17,3,1,yes,no,24,40
+56,Aeronautical Engineering,Eastern Washington University,Part Time,Full Time,Summer,Spring,7,17,1,7,no,no,94,41
+57,Mechanical Engineering,Eastern Washington University,Full Time,Full Time,Spring,Summer,17,7,2,1,yes,yes,19,67
+58,Civil Engineering,Walla Walla University,Full Time,Full Time,Spring,Fall,27,18,5,4,yes,no,90,92
+59,Mechanical Engineering,Central Washington University,Part Time,Part Time,Fall,Winter,2,2,3,6,no,no,1,92
+60,General Major,Washington State University,Unemployed,Full Time,Winter,Summer,7,16,5,6,yes,yes,63,55
+61,Chemical Engineering,Western Washington University,Unemployed,Full Time,Fall,Summer,22,22,5,3,yes,no,77,61
+62,Civil Engineering,Walla Walla University,Part Time,Part Time,Winter,Winter,15,23,5,1,yes,no,14,76
+63,Construction Engineering,University of Washington Bothell,Full Time,Part Time,Summer,Winter,1,3,6,3,no,yes,93,84
+64,Construction Engineering,Washington State University,Part Time,Full Time,Winter,Summer,3,10,6,4,yes,yes,47,64
+65,Electrical Engineering,University of Washington Bothell,Full Time,Full Time,Winter,Spring,6,17,6,5,yes,yes,45,74
+66,Civil Engineering,Eastern Washington University,Part Time,Full Time,Fall,Winter,3,29,2,1,no,yes,81,89
+67,Aeronautical Engineering,Western Washington University,Part Time,Part Time,Spring,Spring,3,7,5,5,no,yes,81,89
+68,Civil Engineering,Central Washington University,Unemployed,Full Time,Spring,Fall,24,24,5,6,no,yes,94,96
+69,Electrical Engineering,Central Washington University,Full Time,Part Time,Summer,Spring,12,1,2,6,yes,yes,70,98
+70,Chemical Engineering,University of Washington Tacoma,Full Time,Part Time,Winter,Spring,3,22,4,3,no,yes,94,37
+71,Electrical Engineering,Washington State University,Full Time,Part Time,Winter,Winter,20,6,6,0,yes,no,80,33
+72,Mechanical Engineering,University of Washington Bothell,Unemployed,Full Time,Spring,Summer,29,11,1,1,yes,yes,94,66
+73,Computer Science,Walla Walla University,Full Time,Full Time,Spring,Spring,14,30,5,2,no,yes,73,88
+74,Construction Engineering,Seattle University,Unemployed,Full Time,Spring,Summer,22,30,3,2,yes,yes,87,63
+75,Aeronautical Engineering,University of Washington Tacoma,Unemployed,Part Time,Fall,Winter,20,25,2,6,no,yes,29,79
+76,General Major,Western Washington University,Part Time,Full Time,Fall,Summer,28,4,1,2,yes,yes,5,90
+77,Computer Science,Walla Walla University,Full Time,Full Time,Summer,Winter,2,21,2,0,no,yes,76,83
+78,Civil Engineering,Western Washington University,Part Time,Part Time,Spring,Winter,8,13,3,1,no,no,50,60
+79,Chemical Engineering,Walla Walla University,Part Time,Full Time,Winter,Winter,28,20,1,5,yes,yes,79,52
+80,Computer Science,University of Washington Seattle,Unemployed,Full Time,Winter,Summer,5,7,2,6,no,no,15,61
+81,Mechanical Engineering,Walla Walla University,Part Time,Full Time,Winter,Fall,7,9,4,6,no,no,20,32
+82,Computer Science,Western Washington University,Full Time,Part Time,Spring,Fall,15,26,4,4,yes,no,48,38
+83,Construction Engineering,Eastern Washington University,Full Time,Full Time,Winter,Fall,18,1,4,0,yes,yes,24,77
+84,Mechanical Engineering,Central Washington University,Unemployed,Part Time,Summer,Summer,2,25,4,6,yes,yes,87,33
+85,Electrical Engineering,Eastern Washington University,Part Time,Full Time,Fall,Winter,12,23,2,5,yes,yes,15,79
+86,Chemical Engineering,Western Washington University,Unemployed,Part Time,Fall,Winter,19,8,1,5,yes,no,99,67
+87,General Major,Central Washington University,Part Time,Full Time,Summer,Fall,4,6,1,3,yes,yes,89,90
+88,Computer Science,University of Washington Bothell,Unemployed,Part Time,Fall,Spring,12,12,6,1,yes,no,18,83
+89,Construction Engineering,Western Washington University,Full Time,Part Time,Fall,Fall,2,11,6,7,yes,yes,29,88
+90,Construction Engineering,Western Washington University,Full Time,Part Time,Spring,Winter,27,11,1,3,no,no,63,98
+91,Aeronautical Engineering,Washington State University,Unemployed,Part Time,Summer,Summer,28,17,4,7,no,yes,39,86
+92,Mechanical Engineering,Washington State University,Full Time,Full Time,Winter,Spring,22,28,6,7,yes,no,82,31
+93,Aeronautical Engineering,Washington State University,Part Time,Full Time,Fall,Fall,20,27,5,2,no,no,96,84
+94,Civil Engineering,Western Washington University,Full Time,Full Time,Summer,Winter,29,17,3,7,no,yes,51,52
+95,General Major,Seattle University,Full Time,Full Time,Winter,Spring,12,3,4,4,yes,yes,69,58
+96,Computer Science,Walla Walla University,Unemployed,Full Time,Spring,Fall,16,16,6,5,no,no,63,49
+97,Construction Engineering,Western Washington University,Unemployed,Part Time,Fall,Summer,1,29,4,0,yes,yes,35,54
+98,Computer Science,Seattle University,Full Time,Full Time,Winter,Spring,1,7,3,0,yes,yes,86,89
+99,Mechanical Engineering,Central Washington University,Unemployed,Full Time,Fall,Fall,18,23,4,7,yes,no,79,77
+100,Construction Engineering,Walla Walla University,Unemployed,Full Time,Summer,Fall,24,1,3,6,no,yes,69,69
+101,Civil Engineering,Seattle University,Part Time,Part Time,Fall,Winter,18,13,3,4,no,yes,77,79
+102,Computer Science,Seattle University,Full Time,Full Time,Spring,Winter,15,12,6,0,no,yes,57,68
+103,Civil Engineering,Western Washington University,Full Time,Part Time,Winter,Summer,11,28,2,7,no,yes,52,84
+104,Civil Engineering,Seattle University,Part Time,Full Time,Fall,Fall,6,28,2,0,no,yes,45,72
+105,Construction Engineering,University of Washington Seattle,Part Time,Full Time,Fall,Summer,22,1,4,4,yes,yes,19,61
+106,Computer Science,University of Washington Tacoma,Full Time,Part Time,Fall,Fall,15,7,2,7,yes,yes,2,48
+107,General Major,Western Washington University,Unemployed,Part Time,Spring,Summer,2,16,5,5,no,yes,3,54
+108,Chemical Engineering,Central Washington University,Full Time,Part Time,Fall,Fall,14,2,1,3,no,no,62,64
+109,Mechanical Engineering,Walla Walla University,Unemployed,Full Time,Summer,Summer,5,5,3,1,no,yes,61,60
+110,Civil Engineering,University of Washington Seattle,Full Time,Full Time,Spring,Fall,24,3,2,3,no,no,47,49
+111,Electrical Engineering,University of Washington Tacoma,Part Time,Full Time,Winter,Winter,8,6,1,7,no,no,3,75
+112,Chemical Engineering,Western Washington University,Unemployed,Part Time,Spring,Winter,15,7,4,0,no,no,83,72
+113,Electrical Engineering,University of Washington Bothell,Full Time,Full Time,Spring,Winter,22,9,4,1,no,yes,32,42
+114,Construction Engineering,Walla Walla University,Full Time,Full Time,Winter,Winter,8,10,6,2,no,no,92,31
+115,Civil Engineering,Central Washington University,Part Time,Full Time,Summer,Fall,13,17,1,5,no,yes,40,84
+116,Civil Engineering,Seattle University,Part Time,Full Time,Winter,Summer,28,14,6,7,no,yes,0,31
+117,Electrical Engineering,Central Washington University,Part Time,Full Time,Winter,Fall,19,21,6,1,yes,yes,1,41
+118,Computer Science,Western Washington University,Part Time,Part Time,Fall,Summer,11,9,5,2,yes,yes,20,31
+119,Electrical Engineering,Western Washington University,Unemployed,Part Time,Fall,Summer,10,27,1,0,no,no,92,46
+120,Electrical Engineering,Central Washington University,Full Time,Part Time,Fall,Fall,6,25,1,6,no,no,13,77
+121,Mechanical Engineering,Seattle University,Unemployed,Full Time,Fall,Spring,27,13,5,1,yes,no,40,46
+122,Aeronautical Engineering,Western Washington University,Unemployed,Full Time,Summer,Spring,9,28,5,3,yes,yes,57,63
+123,Aeronautical Engineering,Central Washington University,Full Time,Full Time,Spring,Fall,3,1,2,3,yes,yes,64,99
+124,Construction Engineering,Washington State University,Unemployed,Full Time,Winter,Winter,2,14,1,6,no,no,6,85
+125,Chemical Engineering,University of Washington Bothell,Full Time,Full Time,Fall,Winter,6,16,3,6,yes,no,94,45
+126,Civil Engineering,Seattle University,Full Time,Full Time,Summer,Winter,16,10,3,3,no,yes,87,99
+127,Construction Engineering,Seattle University,Full Time,Part Time,Winter,Summer,21,21,2,2,no,yes,39,62
+128,Mechanical Engineering,Seattle University,Part Time,Part Time,Spring,Spring,27,9,1,2,no,no,70,49
+129,Aeronautical Engineering,Seattle University,Full Time,Part Time,Fall,Summer,29,23,4,3,no,no,36,87
+130,General Major,Washington State University,Part Time,Full Time,Fall,Winter,18,7,1,3,yes,yes,6,97
+131,Construction Engineering,Eastern Washington University,Full Time,Full Time,Fall,Winter,19,14,3,4,no,yes,89,49
+132,Computer Science,Washington State University,Part Time,Part Time,Fall,Summer,9,16,5,7,no,no,93,69
+133,Electrical Engineering,University of Washington Bothell,Part Time,Part Time,Spring,Summer,15,30,1,7,no,no,84,36
+134,Civil Engineering,University of Washington Seattle,Part Time,Full Time,Spring,Summer,6,2,6,2,no,yes,0,52
+135,Aeronautical Engineering,University of Washington Seattle,Full Time,Part Time,Spring,Winter,20,20,2,7,yes,yes,65,96
+136,Chemical Engineering,Washington State University,Part Time,Part Time,Fall,Fall,9,15,6,1,yes,yes,73,75
+137,Aeronautical Engineering,University of Washington Bothell,Unemployed,Full Time,Winter,Fall,2,3,4,4,yes,no,74,47
+138,Chemical Engineering,University of Washington Bothell,Unemployed,Part Time,Spring,Winter,29,14,6,4,yes,no,45,56
+139,Construction Engineering,University of Washington Bothell,Full Time,Part Time,Winter,Spring,8,20,2,6,yes,yes,61,86
+140,General Major,Eastern Washington University,Unemployed,Full Time,Spring,Spring,9,6,5,4,no,no,8,80
+141,General Major,Western Washington University,Unemployed,Full Time,Fall,Summer,22,15,3,4,no,yes,100,70
+142,Aeronautical Engineering,Walla Walla University,Part Time,Full Time,Winter,Spring,28,12,4,1,no,no,69,67
+143,General Major,Walla Walla University,Part Time,Part Time,Fall,Summer,7,30,3,4,no,yes,39,37
+144,Chemical Engineering,Seattle University,Part Time,Full Time,Fall,Spring,21,16,3,5,no,no,14,72
+145,General Major,Walla Walla University,Full Time,Part Time,Fall,Summer,21,23,5,2,yes,no,66,42
+146,Chemical Engineering,University of Washington Seattle,Full Time,Full Time,Fall,Spring,6,18,5,0,yes,yes,57,40
+147,Electrical Engineering,Western Washington University,Unemployed,Full Time,Winter,Spring,2,24,5,6,no,no,29,46
+148,Chemical Engineering,University of Washington Bothell,Unemployed,Full Time,Spring,Fall,23,5,6,1,no,yes,34,41
+149,Aeronautical Engineering,Eastern Washington University,Unemployed,Full Time,Fall,Fall,30,19,3,1,no,yes,63,48
+150,Aeronautical Engineering,Eastern Washington University,Part Time,Full Time,Winter,Fall,4,2,3,5,no,yes,86,48
+151,Chemical Engineering,Seattle University,Full Time,Part Time,Fall,Summer,13,20,5,7,yes,no,26,56
+152,Civil Engineering,Washington State University,Full Time,Part Time,Fall,Summer,21,30,1,5,no,no,91,60
+153,Computer Science,Eastern Washington University,Unemployed,Full Time,Fall,Fall,19,12,3,3,no,yes,49,78
+154,Chemical Engineering,Central Washington University,Part Time,Full Time,Summer,Fall,4,22,6,3,yes,yes,32,83
+155,Computer Science,University of Washington Tacoma,Unemployed,Part Time,Fall,Winter,1,17,4,7,no,no,10,70
+156,Electrical Engineering,Walla Walla University,Part Time,Part Time,Spring,Winter,21,30,2,2,no,no,38,100
+157,Chemical Engineering,University of Washington Bothell,Full Time,Full Time,Spring,Summer,8,29,6,6,yes,yes,40,31
+158,General Major,Eastern Washington University,Full Time,Full Time,Winter,Spring,10,4,4,1,no,yes,83,52
+159,Aeronautical Engineering,University of Washington Tacoma,Unemployed,Part Time,Winter,Spring,15,28,4,2,no,yes,77,47
+160,Aeronautical Engineering,Washington State University,Unemployed,Full Time,Spring,Winter,1,24,5,3,yes,yes,60,59
+161,Civil Engineering,Western Washington University,Part Time,Full Time,Winter,Spring,28,5,5,7,yes,no,72,57
+162,Construction Engineering,Central Washington University,Full Time,Part Time,Winter,Fall,2,22,5,4,yes,yes,36,81
+163,Computer Science,University of Washington Tacoma,Unemployed,Part Time,Winter,Fall,25,3,1,6,no,no,20,50
+164,Chemical Engineering,Seattle University,Full Time,Part Time,Winter,Fall,24,8,1,7,no,no,41,54
+165,Chemical Engineering,University of Washington Tacoma,Unemployed,Full Time,Fall,Fall,30,14,5,5,yes,yes,78,84
+166,Electrical Engineering,University of Washington Bothell,Unemployed,Full Time,Fall,Winter,11,21,4,0,yes,no,57,42
+167,Computer Science,University of Washington Bothell,Unemployed,Full Time,Spring,Summer,2,6,3,7,no,yes,20,33
+168,Chemical Engineering,University of Washington Bothell,Full Time,Part Time,Fall,Summer,2,10,6,3,no,no,61,99
+169,Mechanical Engineering,Western Washington University,Unemployed,Full Time,Winter,Fall,13,5,3,7,no,yes,57,51
+170,Construction Engineering,Washington State University,Full Time,Part Time,Summer,Winter,24,24,3,4,no,yes,52,66
+171,General Major,Seattle University,Full Time,Part Time,Winter,Winter,7,20,5,7,yes,yes,21,32
+172,General Major,Western Washington University,Full Time,Full Time,Spring,Winter,25,10,6,5,no,yes,70,74
+173,Construction Engineering,University of Washington Bothell,Unemployed,Part Time,Spring,Fall,4,14,3,3,yes,no,56,59
+174,Chemical Engineering,Western Washington University,Full Time,Part Time,Spring,Summer,13,19,2,0,no,no,58,51
+175,General Major,University of Washington Tacoma,Full Time,Full Time,Fall,Fall,7,26,1,5,no,yes,29,48
+176,Construction Engineering,Seattle University,Full Time,Full Time,Winter,Fall,3,8,2,4,no,yes,71,83
+177,Civil Engineering,Eastern Washington University,Part Time,Full Time,Winter,Summer,28,15,6,2,no,no,52,71
+178,Aeronautical Engineering,Seattle University,Part Time,Full Time,Winter,Fall,2,8,5,5,no,no,52,63
+179,Mechanical Engineering,University of Washington Bothell,Part Time,Part Time,Fall,Spring,22,26,2,0,no,yes,94,78
+180,Civil Engineering,Seattle University,Part Time,Part Time,Summer,Winter,3,14,1,5,yes,no,38,45
+181,Mechanical Engineering,Seattle University,Unemployed,Full Time,Fall,Summer,18,2,6,0,no,no,34,44
+182,Civil Engineering,Seattle University,Part Time,Full Time,Fall,Summer,16,10,3,2,yes,no,43,52
+183,General Major,Eastern Washington University,Unemployed,Part Time,Summer,Fall,17,18,6,6,no,yes,27,59
+184,Chemical Engineering,Western Washington University,Unemployed,Full Time,Fall,Winter,30,20,3,5,yes,no,74,40
+185,Aeronautical Engineering,University of Washington Seattle,Unemployed,Part Time,Winter,Summer,9,7,5,7,yes,no,27,82
+186,Computer Science,Central Washington University,Full Time,Full Time,Spring,Fall,19,18,5,4,no,no,20,30
+187,Construction Engineering,University of Washington Seattle,Part Time,Part Time,Fall,Spring,24,24,6,0,no,yes,66,55
+188,Aeronautical Engineering,University of Washington Bothell,Unemployed,Part Time,Winter,Summer,5,23,6,6,yes,yes,80,74
+189,Electrical Engineering,University of Washington Tacoma,Part Time,Part Time,Spring,Summer,18,9,1,1,yes,no,48,85
+190,Construction Engineering,Central Washington University,Part Time,Part Time,Spring,Summer,20,18,4,5,yes,yes,31,97
+191,Mechanical Engineering,Washington State University,Full Time,Full Time,Spring,Fall,15,13,2,4,no,no,49,71
+192,Aeronautical Engineering,University of Washington Bothell,Unemployed,Part Time,Fall,Fall,24,21,1,0,no,yes,16,60
+193,Mechanical Engineering,Washington State University,Full Time,Full Time,Summer,Winter,10,10,5,4,no,no,66,45
+194,General Major,Central Washington University,Unemployed,Full Time,Winter,Fall,6,8,4,2,yes,no,40,71
+195,Civil Engineering,Eastern Washington University,Part Time,Full Time,Winter,Winter,30,12,4,4,yes,yes,76,70
+196,Chemical Engineering,University of Washington Tacoma,Part Time,Full Time,Spring,Fall,15,1,3,0,no,no,73,92
+197,Chemical Engineering,Walla Walla University,Full Time,Full Time,Spring,Spring,11,27,2,2,yes,no,86,37
+198,Mechanical Engineering,Eastern Washington University,Full Time,Full Time,Fall,Fall,3,2,2,5,no,yes,82,77
+199,Civil Engineering,Washington State University,Unemployed,Part Time,Winter,Winter,23,16,4,7,no,yes,31,41
+200,Aeronautical Engineering,Washington State University,Part Time,Part Time,Summer,Summer,6,28,4,2,no,yes,30,70
+201,Construction Engineering,Central Washington University,Unemployed,Full Time,Summer,Fall,7,6,3,0,yes,no,46,79
+202,Aeronautical Engineering,Central Washington University,Part Time,Part Time,Winter,Winter,30,22,4,6,yes,no,22,45
+203,Chemical Engineering,University of Washington Seattle,Full Time,Part Time,Summer,Fall,28,21,4,0,no,no,36,39
+204,Civil Engineering,Eastern Washington University,Full Time,Full Time,Summer,Fall,22,23,2,0,no,yes,19,86
+205,Aeronautical Engineering,Walla Walla University,Full Time,Part Time,Winter,Fall,30,21,1,0,yes,yes,14,88
+206,Mechanical Engineering,Eastern Washington University,Part Time,Part Time,Summer,Spring,21,4,4,1,no,no,42,75
+207,General Major,Washington State University,Full Time,Full Time,Winter,Summer,29,9,4,5,no,yes,71,52
+208,Mechanical Engineering,Walla Walla University,Full Time,Full Time,Summer,Fall,15,16,1,5,yes,no,33,75
+209,Aeronautical Engineering,University of Washington Tacoma,Unemployed,Full Time,Spring,Winter,27,26,6,1,yes,no,100,69
+210,General Major,Washington State University,Part Time,Full Time,Summer,Winter,16,23,4,6,no,no,23,40
+211,Chemical Engineering,Western Washington University,Unemployed,Part Time,Winter,Winter,7,18,3,1,yes,no,52,96
+212,Civil Engineering,University of Washington Seattle,Part Time,Full Time,Summer,Spring,3,17,2,7,no,yes,44,38
+213,Electrical Engineering,Eastern Washington University,Full Time,Part Time,Winter,Winter,19,28,1,0,no,no,39,74
+214,Aeronautical Engineering,Western Washington University,Unemployed,Part Time,Summer,Winter,30,14,3,3,yes,no,52,50
+215,Electrical Engineering,University of Washington Tacoma,Part Time,Part Time,Summer,Spring,29,15,3,7,no,yes,84,64
+216,Electrical Engineering,Walla Walla University,Unemployed,Part Time,Summer,Fall,10,12,5,1,no,yes,48,89
+217,Construction Engineering,Seattle University,Part Time,Full Time,Winter,Winter,22,23,4,3,no,yes,93,99
+218,Construction Engineering,Central Washington University,Part Time,Part Time,Fall,Fall,29,5,1,2,yes,no,19,97
+219,Chemical Engineering,Central Washington University,Unemployed,Full Time,Spring,Spring,16,9,2,3,yes,yes,43,44
+220,Construction Engineering,University of Washington Bothell,Unemployed,Part Time,Summer,Summer,26,26,5,4,no,no,13,98
+221,Computer Science,Western Washington University,Part Time,Full Time,Spring,Winter,9,25,4,3,no,no,41,70
+222,Construction Engineering,University of Washington Seattle,Full Time,Part Time,Winter,Fall,13,4,5,4,yes,yes,3,70
+223,Chemical Engineering,Seattle University,Part Time,Part Time,Winter,Winter,17,6,1,4,no,no,48,94
+224,Chemical Engineering,Seattle University,Full Time,Part Time,Summer,Winter,1,1,6,0,no,no,9,75
+225,Electrical Engineering,Seattle University,Part Time,Full Time,Winter,Winter,7,28,6,0,no,no,61,46
+226,Electrical Engineering,University of Washington Seattle,Unemployed,Part Time,Fall,Summer,9,26,5,7,no,no,68,41
+227,General Major,Walla Walla University,Full Time,Part Time,Fall,Summer,23,24,5,7,no,no,9,87
+228,Civil Engineering,University of Washington Seattle,Unemployed,Part Time,Winter,Spring,14,10,6,7,no,yes,12,34
+229,Aeronautical Engineering,Washington State University,Unemployed,Full Time,Winter,Spring,3,23,3,6,no,no,76,41
+230,Mechanical Engineering,University of Washington Seattle,Full Time,Part Time,Winter,Fall,7,20,5,5,yes,no,8,96
+231,General Major,Eastern Washington University,Full Time,Part Time,Winter,Fall,13,6,2,7,no,yes,63,50
+232,General Major,University of Washington Seattle,Full Time,Part Time,Spring,Spring,9,24,1,1,yes,no,20,36
+233,Construction Engineering,University of Washington Tacoma,Part Time,Part Time,Spring,Summer,8,6,3,3,no,yes,81,65
+234,Aeronautical Engineering,Central Washington University,Part Time,Full Time,Fall,Summer,6,13,3,4,no,yes,84,59
+235,Construction Engineering,University of Washington Seattle,Unemployed,Part Time,Fall,Spring,29,9,1,0,yes,yes,12,73
+236,Electrical Engineering,Western Washington University,Unemployed,Part Time,Summer,Fall,21,19,1,6,no,yes,54,50
+237,Chemical Engineering,Seattle University,Full Time,Full Time,Fall,Fall,3,7,1,2,yes,no,78,41
+238,Construction Engineering,University of Washington Tacoma,Full Time,Part Time,Fall,Winter,10,29,5,6,yes,no,74,54
+239,Mechanical Engineering,University of Washington Bothell,Part Time,Part Time,Fall,Spring,14,23,3,1,no,yes,88,95
+240,Electrical Engineering,Eastern Washington University,Part Time,Part Time,Summer,Summer,20,1,3,4,no,no,61,92
+241,Civil Engineering,Western Washington University,Full Time,Full Time,Winter,Winter,1,1,1,1,yes,yes,45,31
+242,Computer Science,Eastern Washington University,Unemployed,Part Time,Summer,Spring,7,4,6,5,no,no,78,64
+243,Civil Engineering,University of Washington Bothell,Part Time,Full Time,Summer,Winter,7,19,3,5,no,yes,13,57
+244,Electrical Engineering,Walla Walla University,Unemployed,Full Time,Spring,Spring,18,21,5,5,no,no,13,39
+245,Civil Engineering,Washington State University,Full Time,Full Time,Fall,Fall,8,18,6,5,yes,yes,100,35
+246,Aeronautical Engineering,Seattle University,Unemployed,Full Time,Summer,Spring,18,6,1,7,yes,no,72,82
+247,Mechanical Engineering,Central Washington University,Unemployed,Part Time,Winter,Summer,1,12,3,2,no,no,83,71
+248,Mechanical Engineering,Seattle University,Unemployed,Part Time,Winter,Fall,17,22,6,7,no,no,87,86
+249,Mechanical Engineering,University of Washington Tacoma,Full Time,Part Time,Fall,Fall,19,6,1,0,no,no,37,46
+250,Chemical Engineering,Western Washington University,Unemployed,Full Time,Spring,Spring,25,4,3,4,no,no,24,78
+251,Construction Engineering,Central Washington University,Part Time,Full Time,Summer,Winter,14,26,2,2,no,yes,1,73
+252,Chemical Engineering,Seattle University,Part Time,Part Time,Winter,Winter,22,16,6,2,no,yes,36,31
+253,General Major,Seattle University,Part Time,Full Time,Summer,Winter,12,8,2,3,no,yes,86,37
+254,Computer Science,University of Washington Bothell,Unemployed,Part Time,Winter,Winter,23,4,5,3,yes,no,22,98
+255,Construction Engineering,University of Washington Tacoma,Unemployed,Part Time,Spring,Spring,25,9,6,2,yes,no,74,72
+256,Construction Engineering,University of Washington Seattle,Part Time,Part Time,Spring,Spring,15,23,4,7,no,yes,55,51
+257,Electrical Engineering,University of Washington Tacoma,Part Time,Part Time,Spring,Winter,8,25,2,4,no,no,67,63
+258,Chemical Engineering,Eastern Washington University,Unemployed,Full Time,Fall,Fall,7,5,2,0,yes,yes,97,65
+259,Mechanical Engineering,Walla Walla University,Full Time,Part Time,Fall,Summer,30,27,5,2,no,yes,26,37
+260,Mechanical Engineering,Seattle University,Part Time,Part Time,Fall,Spring,8,7,4,0,no,yes,23,49
+261,Electrical Engineering,University of Washington Bothell,Full Time,Part Time,Fall,Winter,10,23,1,4,yes,no,60,39
+262,Computer Science,Eastern Washington University,Part Time,Part Time,Spring,Spring,3,18,5,3,no,yes,55,82
+263,Aeronautical Engineering,Central Washington University,Part Time,Full Time,Fall,Winter,6,27,3,1,no,yes,95,95
+264,Construction Engineering,Washington State University,Part Time,Full Time,Fall,Summer,30,14,4,6,yes,yes,97,68
+265,Mechanical Engineering,Walla Walla University,Part Time,Full Time,Spring,Summer,11,12,6,7,no,no,59,75
+266,General Major,Central Washington University,Full Time,Part Time,Fall,Spring,27,14,6,4,no,yes,1,34
+267,General Major,Walla Walla University,Part Time,Part Time,Winter,Fall,13,30,6,2,yes,no,18,38
+268,Chemical Engineering,University of Washington Seattle,Unemployed,Part Time,Summer,Winter,4,28,3,5,no,no,59,89
+269,Electrical Engineering,University of Washington Bothell,Part Time,Part Time,Fall,Winter,25,15,6,7,no,no,35,36
+270,Construction Engineering,University of Washington Tacoma,Part Time,Full Time,Winter,Spring,24,23,5,3,no,yes,86,81
+271,Computer Science,University of Washington Seattle,Full Time,Part Time,Summer,Spring,13,26,1,3,yes,yes,93,80
+272,Chemical Engineering,Central Washington University,Unemployed,Part Time,Fall,Winter,2,5,6,5,yes,yes,51,64
+273,Aeronautical Engineering,Eastern Washington University,Full Time,Part Time,Winter,Spring,19,29,1,4,no,yes,98,51
+274,Chemical Engineering,Walla Walla University,Part Time,Full Time,Summer,Spring,25,21,4,1,no,yes,19,61
+275,Aeronautical Engineering,Seattle University,Unemployed,Part Time,Summer,Winter,27,24,3,4,yes,yes,37,73
+276,Electrical Engineering,Washington State University,Part Time,Part Time,Winter,Spring,3,13,3,7,no,no,14,43
+277,General Major,Walla Walla University,Full Time,Part Time,Fall,Fall,29,12,4,2,yes,no,57,36
+278,Mechanical Engineering,Eastern Washington University,Unemployed,Part Time,Spring,Fall,17,5,1,6,no,yes,32,39
+279,Civil Engineering,Seattle University,Part Time,Part Time,Summer,Winter,7,2,1,1,no,yes,61,75
+280,Chemical Engineering,University of Washington Seattle,Full Time,Full Time,Fall,Summer,4,18,1,3,no,no,85,83
+281,Construction Engineering,Washington State University,Unemployed,Full Time,Fall,Fall,16,12,3,5,yes,no,38,46
+282,Civil Engineering,Seattle University,Unemployed,Part Time,Winter,Winter,19,10,2,7,no,no,79,97
+283,Aeronautical Engineering,Walla Walla University,Part Time,Part Time,Fall,Summer,15,12,1,3,yes,yes,68,82
+284,Civil Engineering,Eastern Washington University,Unemployed,Part Time,Summer,Winter,29,17,6,5,yes,no,34,88
+285,Electrical Engineering,Walla Walla University,Unemployed,Part Time,Fall,Spring,28,7,6,7,yes,no,92,41
+286,Computer Science,University of Washington Seattle,Full Time,Part Time,Fall,Winter,30,17,6,6,no,yes,3,76
+287,Electrical Engineering,Central Washington University,Unemployed,Full Time,Winter,Spring,3,20,6,1,yes,no,59,92
+288,Computer Science,Seattle University,Full Time,Full Time,Summer,Fall,26,27,5,2,no,no,4,52
+289,General Major,Central Washington University,Full Time,Full Time,Summer,Summer,13,23,1,7,yes,yes,89,30
+290,Construction Engineering,Western Washington University,Unemployed,Part Time,Fall,Spring,12,12,5,1,no,no,20,64
+291,General Major,University of Washington Seattle,Unemployed,Part Time,Summer,Fall,27,1,1,0,yes,yes,55,36
+292,General Major,Eastern Washington University,Part Time,Full Time,Spring,Fall,12,25,2,0,no,yes,39,51
+293,Chemical Engineering,University of Washington Tacoma,Full Time,Full Time,Spring,Spring,20,10,3,2,no,no,24,86
+294,Chemical Engineering,University of Washington Tacoma,Unemployed,Part Time,Fall,Winter,28,29,1,2,no,no,74,91
+295,Aeronautical Engineering,University of Washington Bothell,Unemployed,Part Time,Spring,Spring,11,14,3,5,yes,yes,67,39
+296,Computer Science,Washington State University,Unemployed,Part Time,Winter,Summer,24,23,2,6,yes,yes,24,76
+297,Computer Science,Washington State University,Full Time,Part Time,Spring,Winter,7,2,3,3,yes,no,2,82
+298,Aeronautical Engineering,University of Washington Bothell,Full Time,Full Time,Spring,Summer,23,23,3,6,yes,no,6,85
+299,Chemical Engineering,University of Washington Bothell,Unemployed,Full Time,Fall,Winter,26,18,3,2,no,yes,55,53
+300,Computer Science,Central Washington University,Full Time,Full Time,Winter,Fall,21,14,3,5,yes,yes,85,99
+301,General Major,University of Washington Seattle,Full Time,Full Time,Summer,Spring,12,3,4,1,no,no,91,78
+302,Civil Engineering,University of Washington Seattle,Full Time,Full Time,Spring,Winter,6,13,6,6,no,no,94,36
+303,General Major,Walla Walla University,Unemployed,Full Time,Fall,Fall,2,24,6,1,no,yes,69,83
+304,Aeronautical Engineering,Western Washington University,Unemployed,Full Time,Fall,Spring,12,20,4,1,no,no,66,83
+305,Aeronautical Engineering,Central Washington University,Full Time,Full Time,Fall,Summer,22,28,5,2,yes,yes,76,94
+306,Construction Engineering,Washington State University,Unemployed,Full Time,Spring,Summer,20,26,1,6,no,no,85,90
+307,Construction Engineering,Central Washington University,Part Time,Full Time,Winter,Summer,27,28,5,3,no,no,31,58
+308,Construction Engineering,Central Washington University,Part Time,Part Time,Summer,Winter,30,19,4,2,yes,no,61,86
+309,Civil Engineering,Central Washington University,Unemployed,Full Time,Spring,Winter,2,4,3,2,no,yes,78,37
+310,Civil Engineering,University of Washington Bothell,Part Time,Full Time,Spring,Winter,21,12,3,4,no,no,91,38
+311,Civil Engineering,Eastern Washington University,Unemployed,Part Time,Spring,Fall,4,29,3,2,yes,yes,83,90
+312,Aeronautical Engineering,University of Washington Tacoma,Part Time,Part Time,Spring,Summer,15,17,4,2,no,no,79,78
+313,General Major,University of Washington Bothell,Full Time,Full Time,Summer,Winter,30,12,1,2,yes,no,14,99
+314,Civil Engineering,University of Washington Seattle,Full Time,Part Time,Summer,Winter,30,14,3,2,yes,yes,70,80
+315,Computer Science,Washington State University,Unemployed,Full Time,Summer,Winter,21,7,6,0,yes,yes,73,43
+316,Electrical Engineering,Central Washington University,Full Time,Part Time,Fall,Spring,22,27,2,7,no,yes,32,57
+317,Mechanical Engineering,Eastern Washington University,Part Time,Part Time,Fall,Fall,15,6,1,4,no,no,29,72
+318,General Major,University of Washington Seattle,Part Time,Full Time,Winter,Spring,4,16,6,3,yes,no,69,54
+319,Electrical Engineering,University of Washington Tacoma,Unemployed,Part Time,Fall,Winter,18,6,1,3,yes,yes,71,73
+320,Electrical Engineering,Western Washington University,Unemployed,Full Time,Spring,Summer,21,16,2,5,no,yes,88,97
+321,Civil Engineering,Western Washington University,Unemployed,Part Time,Winter,Summer,29,8,1,5,no,no,27,93
+322,Electrical Engineering,Eastern Washington University,Part Time,Full Time,Spring,Summer,13,18,5,3,no,yes,83,83
+323,Computer Science,University of Washington Tacoma,Full Time,Part Time,Spring,Summer,4,13,1,1,no,no,61,90
+324,Computer Science,Walla Walla University,Full Time,Part Time,Fall,Spring,27,2,4,5,no,no,59,99
+325,General Major,Eastern Washington University,Part Time,Full Time,Summer,Summer,24,26,1,4,yes,yes,44,66
+326,Construction Engineering,Washington State University,Part Time,Full Time,Fall,Spring,4,3,4,1,yes,yes,72,80
+327,General Major,University of Washington Tacoma,Unemployed,Part Time,Fall,Spring,3,22,3,4,yes,yes,94,65
+328,Aeronautical Engineering,Washington State University,Full Time,Full Time,Winter,Winter,8,10,1,0,no,yes,14,79
+329,Construction Engineering,Walla Walla University,Full Time,Part Time,Fall,Winter,16,24,2,0,no,yes,69,40
+330,Electrical Engineering,Seattle University,Full Time,Full Time,Winter,Fall,2,26,1,0,yes,no,2,31
+331,Computer Science,University of Washington Bothell,Full Time,Full Time,Winter,Winter,9,1,4,5,yes,yes,76,37
+332,Mechanical Engineering,Eastern Washington University,Unemployed,Part Time,Fall,Winter,28,9,2,1,no,no,65,36
+333,Chemical Engineering,Central Washington University,Full Time,Full Time,Spring,Winter,4,4,2,4,no,yes,83,37
+334,General Major,Washington State University,Full Time,Full Time,Spring,Spring,29,6,6,5,no,no,9,71
+335,Chemical Engineering,University of Washington Tacoma,Full Time,Part Time,Spring,Summer,8,25,2,4,no,no,36,51
+336,Chemical Engineering,University of Washington Tacoma,Part Time,Part Time,Fall,Fall,13,25,4,6,yes,yes,2,30
+337,Mechanical Engineering,Walla Walla University,Full Time,Full Time,Winter,Winter,10,29,5,0,no,yes,14,89
+338,Chemical Engineering,University of Washington Seattle,Unemployed,Full Time,Fall,Fall,22,9,2,5,yes,yes,51,82
+339,Electrical Engineering,Eastern Washington University,Unemployed,Part Time,Spring,Summer,18,18,1,1,yes,yes,82,91
+340,General Major,Walla Walla University,Unemployed,Part Time,Winter,Summer,16,25,3,3,yes,yes,23,91
+341,Chemical Engineering,Seattle University,Part Time,Full Time,Spring,Spring,22,18,2,6,no,no,46,30
+342,Construction Engineering,Central Washington University,Full Time,Part Time,Fall,Fall,9,24,5,1,no,no,43,56
+343,General Major,Eastern Washington University,Unemployed,Full Time,Fall,Summer,4,15,4,7,yes,yes,21,42
+344,Aeronautical Engineering,University of Washington Bothell,Part Time,Full Time,Fall,Summer,14,4,3,3,no,yes,64,71
+345,Civil Engineering,Walla Walla University,Full Time,Part Time,Winter,Spring,5,16,3,1,no,no,52,86
+346,Electrical Engineering,University of Washington Seattle,Part Time,Full Time,Spring,Summer,5,10,2,2,yes,yes,73,92
+347,Aeronautical Engineering,Central Washington University,Full Time,Part Time,Winter,Winter,22,27,5,0,no,no,28,86
+348,Civil Engineering,Washington State University,Unemployed,Full Time,Spring,Winter,1,18,4,2,yes,yes,60,44
+349,Civil Engineering,Central Washington University,Part Time,Full Time,Fall,Winter,15,28,6,1,no,yes,17,48
+350,Mechanical Engineering,Walla Walla University,Part Time,Full Time,Fall,Summer,6,28,4,3,yes,yes,26,87
+351,Electrical Engineering,Seattle University,Unemployed,Part Time,Fall,Summer,17,29,6,0,no,no,7,71
+352,Electrical Engineering,Eastern Washington University,Part Time,Part Time,Spring,Spring,23,8,1,5,yes,yes,83,62
+353,General Major,Central Washington University,Unemployed,Full Time,Fall,Fall,22,15,1,5,no,no,29,91
+354,Civil Engineering,Eastern Washington University,Part Time,Part Time,Winter,Winter,28,26,1,6,no,no,8,99
+355,Construction Engineering,Western Washington University,Full Time,Part Time,Summer,Winter,11,21,3,4,no,no,45,89
+356,Chemical Engineering,Western Washington University,Part Time,Full Time,Spring,Winter,22,23,3,3,yes,no,64,56
+357,General Major,Western Washington University,Unemployed,Part Time,Spring,Fall,15,27,2,7,no,yes,71,50
+358,Civil Engineering,University of Washington Tacoma,Part Time,Part Time,Summer,Fall,28,7,2,0,yes,yes,28,91
+359,Aeronautical Engineering,Seattle University,Part Time,Full Time,Summer,Winter,29,25,4,2,yes,no,70,76
+360,Computer Science,University of Washington Bothell,Part Time,Part Time,Fall,Fall,18,17,3,7,no,yes,90,81
+361,Construction Engineering,University of Washington Seattle,Full Time,Part Time,Winter,Winter,5,11,3,4,no,no,84,84
+362,Aeronautical Engineering,University of Washington Seattle,Full Time,Full Time,Fall,Summer,5,30,6,7,yes,yes,67,30
+363,Mechanical Engineering,Walla Walla University,Unemployed,Part Time,Spring,Spring,3,9,1,6,no,yes,83,60
+364,Aeronautical Engineering,University of Washington Tacoma,Part Time,Part Time,Fall,Spring,8,2,3,1,no,no,11,70
+365,General Major,Seattle University,Part Time,Full Time,Summer,Winter,25,4,6,4,no,yes,76,41
+366,Aeronautical Engineering,University of Washington Bothell,Full Time,Full Time,Winter,Spring,23,17,5,4,no,no,3,57
+367,Construction Engineering,Central Washington University,Unemployed,Part Time,Winter,Summer,4,16,5,7,yes,no,69,47
+368,Electrical Engineering,Walla Walla University,Part Time,Part Time,Summer,Winter,21,2,3,4,yes,yes,58,54
+369,General Major,Central Washington University,Part Time,Full Time,Fall,Spring,30,9,2,7,no,yes,32,58
+370,General Major,University of Washington Tacoma,Full Time,Full Time,Summer,Winter,30,3,3,6,no,no,77,60
+371,Electrical Engineering,Seattle University,Part Time,Full Time,Winter,Spring,16,10,2,0,yes,no,58,46
+372,Mechanical Engineering,University of Washington Bothell,Unemployed,Part Time,Fall,Winter,3,22,4,4,yes,yes,82,74
+373,General Major,University of Washington Seattle,Unemployed,Part Time,Winter,Spring,27,2,2,3,no,no,97,67
+374,Mechanical Engineering,Washington State University,Part Time,Part Time,Fall,Summer,16,28,5,5,no,no,55,54
+375,General Major,Western Washington University,Full Time,Part Time,Fall,Summer,6,23,4,4,no,yes,45,54
+376,Electrical Engineering,University of Washington Tacoma,Unemployed,Full Time,Fall,Spring,8,11,5,1,no,no,57,68
+377,General Major,Seattle University,Part Time,Full Time,Fall,Summer,17,1,4,6,no,no,66,58
+378,Chemical Engineering,Western Washington University,Unemployed,Part Time,Fall,Spring,6,10,5,5,yes,no,27,45
+379,Mechanical Engineering,Seattle University,Part Time,Full Time,Spring,Summer,15,19,6,7,no,yes,3,36
+380,Chemical Engineering,University of Washington Seattle,Unemployed,Part Time,Spring,Winter,14,1,3,2,no,no,45,88
+381,Civil Engineering,Walla Walla University,Part Time,Full Time,Fall,Spring,21,26,3,4,yes,no,74,95
+382,Construction Engineering,Walla Walla University,Unemployed,Part Time,Summer,Summer,25,15,2,2,no,yes,53,82
+383,Aeronautical Engineering,University of Washington Seattle,Unemployed,Part Time,Spring,Fall,24,12,6,3,yes,no,9,45
+384,Aeronautical Engineering,Walla Walla University,Full Time,Part Time,Spring,Winter,13,27,1,7,yes,yes,94,32
+385,General Major,Seattle University,Part Time,Full Time,Winter,Spring,11,30,2,2,yes,yes,100,84
+386,Aeronautical Engineering,Western Washington University,Part Time,Part Time,Winter,Summer,21,11,5,4,yes,no,6,33
+387,Civil Engineering,Central Washington University,Unemployed,Part Time,Spring,Summer,24,22,5,7,no,no,74,44
+388,Computer Science,University of Washington Tacoma,Full Time,Full Time,Winter,Winter,25,26,1,1,no,yes,85,79
+389,Computer Science,Washington State University,Unemployed,Full Time,Spring,Winter,2,11,1,7,no,yes,4,41
+390,Civil Engineering,Western Washington University,Part Time,Part Time,Summer,Fall,13,26,4,7,no,no,7,73
+391,Mechanical Engineering,Eastern Washington University,Full Time,Full Time,Spring,Spring,23,7,1,7,yes,yes,52,67
+392,Aeronautical Engineering,University of Washington Bothell,Part Time,Part Time,Fall,Summer,24,18,2,6,no,yes,46,57
+393,Aeronautical Engineering,University of Washington Bothell,Full Time,Full Time,Fall,Spring,22,15,3,0,no,no,90,100
+394,Computer Science,Central Washington University,Full Time,Full Time,Spring,Fall,27,5,6,4,yes,no,31,46
+395,Computer Science,Walla Walla University,Full Time,Part Time,Winter,Summer,26,15,5,5,no,yes,32,60
+396,Construction Engineering,University of Washington Seattle,Full Time,Part Time,Summer,Winter,13,16,3,1,no,yes,43,77
+397,Construction Engineering,University of Washington Bothell,Full Time,Part Time,Summer,Spring,27,2,2,6,no,no,83,58
+398,Chemical Engineering,Central Washington University,Unemployed,Full Time,Winter,Summer,5,25,3,7,yes,yes,94,59
+399,Chemical Engineering,Walla Walla University,Part Time,Full Time,Spring,Winter,9,5,6,4,yes,yes,63,57
+400,General Major,Eastern Washington University,Unemployed,Part Time,Winter,Winter,5,30,4,2,no,yes,10,70
+401,Aeronautical Engineering,Washington State University,Full Time,Part Time,Winter,Fall,18,28,3,7,yes,no,90,85
+402,Mechanical Engineering,University of Washington Bothell,Part Time,Part Time,Summer,Fall,28,27,3,5,no,yes,81,98
+403,Civil Engineering,Washington State University,Unemployed,Full Time,Fall,Fall,1,14,6,6,yes,no,1,48
+404,Chemical Engineering,University of Washington Bothell,Full Time,Full Time,Summer,Spring,22,4,6,7,no,no,19,92
+405,Computer Science,Central Washington University,Part Time,Part Time,Summer,Fall,23,19,5,0,yes,yes,97,46
+406,Electrical Engineering,Walla Walla University,Unemployed,Full Time,Spring,Summer,23,29,5,5,yes,yes,25,34
+407,Electrical Engineering,Walla Walla University,Unemployed,Full Time,Fall,Spring,12,11,2,3,yes,no,76,66
+408,Mechanical Engineering,Central Washington University,Unemployed,Full Time,Winter,Fall,2,14,3,1,no,yes,31,39
+409,Computer Science,Eastern Washington University,Unemployed,Part Time,Summer,Winter,23,4,1,7,no,yes,38,100
+410,Electrical Engineering,Eastern Washington University,Full Time,Full Time,Spring,Fall,11,17,4,6,no,no,7,70
+411,Aeronautical Engineering,University of Washington Tacoma,Part Time,Full Time,Winter,Summer,2,5,4,7,yes,yes,36,80
+412,Civil Engineering,University of Washington Tacoma,Unemployed,Part Time,Summer,Fall,15,14,2,2,yes,yes,41,88
+413,Computer Science,Washington State University,Full Time,Part Time,Fall,Summer,29,16,4,2,yes,no,77,50
+414,Construction Engineering,Central Washington University,Full Time,Full Time,Winter,Summer,27,27,6,7,no,no,10,89
+415,Computer Science,Washington State University,Part Time,Part Time,Winter,Summer,27,13,5,7,no,no,97,92
+416,Computer Science,Washington State University,Full Time,Part Time,Summer,Spring,12,5,1,3,no,no,9,73
+417,General Major,Western Washington University,Part Time,Full Time,Summer,Summer,16,15,6,7,yes,yes,61,60
+418,Civil Engineering,University of Washington Seattle,Unemployed,Full Time,Summer,Winter,28,8,2,4,yes,yes,98,67
+419,Aeronautical Engineering,Central Washington University,Full Time,Full Time,Summer,Winter,15,13,5,7,no,yes,70,79
+420,General Major,University of Washington Seattle,Unemployed,Full Time,Spring,Winter,14,29,6,0,yes,no,77,75
+421,Electrical Engineering,University of Washington Bothell,Part Time,Full Time,Fall,Fall,24,5,1,1,yes,no,32,87
+422,Computer Science,University of Washington Bothell,Full Time,Full Time,Winter,Summer,6,11,2,5,no,yes,72,39
+423,Computer Science,Seattle University,Part Time,Part Time,Spring,Summer,20,23,2,7,no,no,86,82
+424,Chemical Engineering,Western Washington University,Unemployed,Part Time,Winter,Fall,6,14,4,5,yes,no,2,31
+425,Chemical Engineering,Seattle University,Part Time,Part Time,Fall,Spring,15,22,2,6,no,yes,4,94
+426,Electrical Engineering,University of Washington Seattle,Full Time,Part Time,Spring,Fall,20,2,4,0,yes,no,71,50
+427,Civil Engineering,University of Washington Bothell,Unemployed,Part Time,Summer,Fall,16,28,1,3,no,no,12,47
+428,General Major,University of Washington Tacoma,Full Time,Full Time,Summer,Winter,1,25,1,0,no,no,49,33
+429,Aeronautical Engineering,Walla Walla University,Part Time,Part Time,Winter,Winter,15,29,5,7,yes,no,21,83
+430,General Major,University of Washington Tacoma,Full Time,Full Time,Spring,Spring,15,15,3,1,yes,no,5,59
+431,Mechanical Engineering,University of Washington Tacoma,Part Time,Part Time,Spring,Winter,13,2,4,1,yes,no,11,77
+432,Electrical Engineering,University of Washington Tacoma,Unemployed,Part Time,Spring,Fall,12,11,6,2,no,no,38,55
+433,Construction Engineering,Seattle University,Unemployed,Full Time,Spring,Fall,23,9,4,0,yes,no,40,97
+434,Mechanical Engineering,Eastern Washington University,Part Time,Part Time,Summer,Spring,25,7,6,5,yes,no,100,83
+435,Chemical Engineering,University of Washington Seattle,Part Time,Full Time,Summer,Summer,9,25,3,5,yes,no,5,80
+436,Civil Engineering,Walla Walla University,Part Time,Full Time,Winter,Winter,8,30,1,6,no,yes,43,87
+437,Aeronautical Engineering,University of Washington Bothell,Unemployed,Full Time,Fall,Winter,28,15,1,5,no,no,0,100
+438,Civil Engineering,Walla Walla University,Part Time,Full Time,Summer,Summer,8,10,3,6,yes,yes,36,79
+439,Computer Science,University of Washington Seattle,Unemployed,Part Time,Summer,Fall,28,18,2,3,yes,no,30,32
+440,Construction Engineering,Walla Walla University,Part Time,Part Time,Summer,Summer,21,23,2,5,yes,no,78,72
+441,Chemical Engineering,Seattle University,Unemployed,Full Time,Spring,Fall,9,4,6,1,no,no,96,100
+442,Construction Engineering,Central Washington University,Full Time,Part Time,Winter,Summer,27,26,2,6,no,yes,96,56
+443,General Major,University of Washington Tacoma,Unemployed,Part Time,Spring,Summer,26,5,1,1,no,yes,14,81
+444,Mechanical Engineering,University of Washington Seattle,Full Time,Part Time,Winter,Fall,15,9,4,1,yes,no,51,57
+445,Civil Engineering,Eastern Washington University,Part Time,Part Time,Winter,Winter,8,21,2,5,yes,no,80,76
+446,Aeronautical Engineering,Eastern Washington University,Full Time,Full Time,Summer,Winter,30,4,2,4,no,yes,62,71
+447,Construction Engineering,University of Washington Tacoma,Unemployed,Full Time,Summer,Summer,12,29,5,2,yes,yes,9,75
+448,Mechanical Engineering,Western Washington University,Unemployed,Part Time,Winter,Fall,8,27,5,0,yes,no,81,88
+449,Chemical Engineering,University of Washington Bothell,Part Time,Full Time,Summer,Spring,6,7,2,1,yes,yes,51,75
+450,Construction Engineering,University of Washington Seattle,Part Time,Part Time,Fall,Winter,22,4,6,7,no,yes,54,85
+451,Chemical Engineering,University of Washington Tacoma,Part Time,Part Time,Summer,Fall,6,28,2,4,yes,yes,11,57
+452,Chemical Engineering,Western Washington University,Full Time,Full Time,Fall,Fall,26,2,3,2,no,yes,92,57
+453,Aeronautical Engineering,Washington State University,Part Time,Part Time,Winter,Summer,1,23,5,1,no,no,9,62
+454,Construction Engineering,University of Washington Bothell,Part Time,Full Time,Fall,Summer,12,10,1,6,yes,yes,90,36
+455,Computer Science,Eastern Washington University,Full Time,Part Time,Fall,Spring,26,21,6,1,yes,no,88,74
+456,Chemical Engineering,Central Washington University,Unemployed,Part Time,Summer,Spring,29,19,4,0,yes,yes,98,68
+457,Chemical Engineering,Eastern Washington University,Full Time,Part Time,Summer,Spring,11,27,5,4,yes,yes,24,98
+458,Chemical Engineering,Central Washington University,Part Time,Part Time,Fall,Summer,10,24,1,2,yes,no,0,43
+459,Mechanical Engineering,Western Washington University,Full Time,Full Time,Spring,Winter,11,19,2,1,no,yes,91,71
+460,Aeronautical Engineering,University of Washington Seattle,Full Time,Part Time,Fall,Fall,9,15,6,6,yes,yes,97,35
+461,Aeronautical Engineering,Western Washington University,Unemployed,Part Time,Fall,Summer,19,11,6,2,yes,no,49,82
+462,Civil Engineering,University of Washington Bothell,Full Time,Part Time,Spring,Summer,27,17,2,7,no,no,19,77
+463,Chemical Engineering,University of Washington Seattle,Unemployed,Full Time,Fall,Fall,15,9,1,1,no,no,71,54
+464,Computer Science,Washington State University,Part Time,Part Time,Fall,Summer,4,6,5,6,yes,no,71,60
+465,Chemical Engineering,Walla Walla University,Unemployed,Full Time,Fall,Winter,8,10,5,2,no,no,28,67
+466,Computer Science,Eastern Washington University,Part Time,Part Time,Winter,Winter,11,28,2,7,no,yes,86,76
+467,Computer Science,Central Washington University,Full Time,Full Time,Spring,Summer,17,15,4,3,yes,yes,89,77
+468,Mechanical Engineering,University of Washington Bothell,Part Time,Full Time,Fall,Spring,18,16,1,5,no,no,30,81
+469,Civil Engineering,Western Washington University,Full Time,Full Time,Fall,Summer,1,7,5,0,no,no,67,94
+470,Aeronautical Engineering,Seattle University,Full Time,Full Time,Fall,Winter,12,30,3,6,no,yes,49,51
+471,Electrical Engineering,Walla Walla University,Unemployed,Full Time,Winter,Summer,25,27,6,3,no,yes,92,76
+472,Electrical Engineering,Washington State University,Full Time,Full Time,Summer,Spring,22,4,6,3,yes,yes,47,52
+473,Electrical Engineering,Seattle University,Full Time,Full Time,Summer,Fall,7,19,5,1,yes,yes,47,43
+474,Chemical Engineering,University of Washington Bothell,Part Time,Full Time,Summer,Winter,4,13,6,7,yes,yes,41,42
+475,Construction Engineering,University of Washington Bothell,Part Time,Full Time,Summer,Spring,4,27,6,0,yes,yes,97,47
+476,Construction Engineering,Seattle University,Part Time,Full Time,Fall,Winter,4,8,5,5,yes,no,15,81
+477,Computer Science,Eastern Washington University,Part Time,Full Time,Winter,Spring,9,11,3,0,yes,no,82,80
+478,Mechanical Engineering,Eastern Washington University,Part Time,Full Time,Summer,Summer,14,20,5,4,no,yes,50,75
+479,Construction Engineering,University of Washington Bothell,Full Time,Full Time,Summer,Fall,12,26,4,1,no,no,37,83
+480,Aeronautical Engineering,Eastern Washington University,Unemployed,Part Time,Fall,Winter,11,9,5,0,no,yes,22,59
+481,Computer Science,Seattle University,Unemployed,Full Time,Fall,Spring,7,22,2,3,yes,yes,15,40
+482,Mechanical Engineering,Walla Walla University,Full Time,Full Time,Fall,Winter,3,1,4,1,no,no,98,71
+483,Computer Science,Central Washington University,Unemployed,Full Time,Summer,Fall,20,20,3,1,no,yes,30,54
+484,Chemical Engineering,University of Washington Tacoma,Part Time,Part Time,Summer,Fall,17,13,6,5,no,yes,89,46
+485,Mechanical Engineering,Washington State University,Full Time,Part Time,Summer,Spring,25,16,4,3,no,no,28,92
+486,Chemical Engineering,University of Washington Tacoma,Full Time,Full Time,Summer,Summer,7,4,3,3,no,yes,100,48
+487,Electrical Engineering,Washington State University,Unemployed,Part Time,Fall,Spring,9,8,4,3,yes,yes,47,96
+488,Computer Science,Walla Walla University,Full Time,Part Time,Fall,Summer,20,25,3,2,no,no,25,91
+489,Construction Engineering,University of Washington Seattle,Full Time,Part Time,Winter,Summer,5,5,4,3,no,yes,61,91
+490,Computer Science,University of Washington Tacoma,Part Time,Part Time,Spring,Winter,9,9,4,1,no,yes,79,91
+491,Construction Engineering,Western Washington University,Unemployed,Full Time,Fall,Winter,16,29,5,5,no,yes,63,98
+492,Construction Engineering,Western Washington University,Part Time,Part Time,Fall,Summer,30,5,6,6,no,no,41,74
+493,General Major,University of Washington Seattle,Unemployed,Full Time,Spring,Summer,8,12,1,6,no,no,89,95
+494,General Major,University of Washington Tacoma,Unemployed,Full Time,Fall,Fall,15,14,5,2,no,no,11,48
+495,Mechanical Engineering,Western Washington University,Full Time,Part Time,Summer,Winter,1,25,1,5,yes,no,86,81
+496,Computer Science,Washington State University,Full Time,Part Time,Fall,Spring,20,22,1,6,no,yes,77,56
+497,Civil Engineering,Eastern Washington University,Full Time,Full Time,Winter,Summer,18,5,3,4,yes,no,83,91
+498,Civil Engineering,University of Washington Tacoma,Full Time,Full Time,Fall,Winter,5,7,5,3,no,yes,8,49
+499,Mechanical Engineering,Central Washington University,Full Time,Full Time,Fall,Summer,30,8,3,6,no,yes,20,67
+500,Mechanical Engineering,Washington State University,Full Time,Full Time,Fall,Winter,14,14,6,5,yes,no,96,75
+501,Mechanical Engineering,Washington State University,Part Time,Part Time,Fall,Spring,20,28,2,2,no,no,29,41
+502,Electrical Engineering,University of Washington Seattle,Unemployed,Full Time,Fall,Spring,4,13,6,4,yes,no,52,45
+503,Construction Engineering,Seattle University,Unemployed,Full Time,Winter,Spring,1,18,1,0,no,no,59,64
+504,Computer Science,University of Washington Tacoma,Full Time,Full Time,Summer,Fall,15,25,2,3,yes,no,100,56
+505,Chemical Engineering,University of Washington Bothell,Full Time,Part Time,Fall,Summer,3,17,2,7,yes,yes,23,99
+506,Aeronautical Engineering,University of Washington Tacoma,Part Time,Part Time,Winter,Fall,5,27,2,3,no,yes,14,69
+507,Construction Engineering,University of Washington Tacoma,Unemployed,Full Time,Fall,Winter,23,3,3,5,no,no,60,36
+508,Mechanical Engineering,University of Washington Tacoma,Part Time,Full Time,Spring,Spring,27,10,2,2,no,no,33,87
+509,Civil Engineering,Eastern Washington University,Full Time,Full Time,Winter,Spring,29,28,5,0,yes,no,34,41
+510,Electrical Engineering,Seattle University,Unemployed,Part Time,Spring,Summer,3,27,4,4,yes,no,60,32
+511,Chemical Engineering,Walla Walla University,Unemployed,Part Time,Winter,Summer,3,14,4,2,no,no,38,59
+512,General Major,Western Washington University,Part Time,Part Time,Summer,Fall,14,11,6,0,no,yes,100,64
+513,Computer Science,University of Washington Seattle,Part Time,Full Time,Summer,Spring,3,4,4,1,no,yes,99,36
+514,Electrical Engineering,Walla Walla University,Full Time,Part Time,Fall,Fall,29,4,3,7,no,no,12,61
+515,General Major,Western Washington University,Part Time,Full Time,Fall,Summer,14,28,4,0,no,no,52,67
+516,General Major,Central Washington University,Part Time,Part Time,Fall,Winter,16,25,3,5,yes,yes,22,34
+517,Aeronautical Engineering,Eastern Washington University,Unemployed,Part Time,Winter,Summer,30,18,5,1,yes,no,6,30
+518,Computer Science,University of Washington Tacoma,Unemployed,Part Time,Winter,Fall,11,21,4,4,no,no,1,75
+519,Computer Science,University of Washington Seattle,Part Time,Full Time,Summer,Summer,27,16,3,4,yes,yes,90,91
+520,Computer Science,Washington State University,Part Time,Full Time,Fall,Fall,18,22,5,3,no,yes,28,43
+521,Civil Engineering,Walla Walla University,Full Time,Full Time,Spring,Spring,7,5,4,5,yes,yes,94,59
+522,Chemical Engineering,Washington State University,Unemployed,Part Time,Winter,Fall,9,19,2,2,no,yes,37,81
+523,Electrical Engineering,Walla Walla University,Unemployed,Part Time,Spring,Summer,10,1,5,5,yes,no,70,36
+524,Civil Engineering,University of Washington Seattle,Part Time,Part Time,Spring,Winter,20,4,4,0,yes,no,82,58
+525,Aeronautical Engineering,Walla Walla University,Part Time,Full Time,Winter,Winter,11,2,5,2,yes,no,70,60
+526,General Major,Walla Walla University,Full Time,Full Time,Spring,Spring,18,23,4,3,yes,yes,96,84
+527,Chemical Engineering,Washington State University,Part Time,Part Time,Spring,Winter,23,11,3,4,yes,no,36,37
+528,Construction Engineering,Washington State University,Unemployed,Full Time,Summer,Spring,19,1,4,7,yes,yes,22,38
+529,Aeronautical Engineering,University of Washington Seattle,Part Time,Full Time,Winter,Winter,22,5,5,1,yes,no,17,99
+530,Aeronautical Engineering,University of Washington Seattle,Unemployed,Part Time,Winter,Summer,22,2,6,0,no,no,31,92
+531,Electrical Engineering,Eastern Washington University,Unemployed,Part Time,Winter,Fall,3,20,3,1,no,yes,80,72
+532,Chemical Engineering,Walla Walla University,Unemployed,Full Time,Spring,Fall,5,13,6,0,yes,no,5,54
+533,Mechanical Engineering,Walla Walla University,Full Time,Full Time,Spring,Fall,7,25,4,2,no,no,9,92
+534,Mechanical Engineering,University of Washington Seattle,Full Time,Part Time,Summer,Spring,16,12,2,6,yes,no,67,31
+535,Civil Engineering,Washington State University,Full Time,Full Time,Winter,Fall,13,12,2,2,yes,yes,77,30
+536,Electrical Engineering,Eastern Washington University,Full Time,Full Time,Winter,Winter,20,2,3,5,no,no,54,87
+537,Mechanical Engineering,Seattle University,Unemployed,Full Time,Winter,Summer,1,20,6,0,no,yes,89,92
+538,Civil Engineering,Washington State University,Full Time,Full Time,Winter,Fall,21,10,2,0,no,yes,36,39
+539,Construction Engineering,Washington State University,Unemployed,Part Time,Fall,Fall,20,5,4,4,no,no,91,97
+540,Chemical Engineering,Central Washington University,Full Time,Full Time,Summer,Winter,7,1,1,5,no,yes,27,63
+541,Computer Science,Walla Walla University,Unemployed,Part Time,Winter,Summer,18,14,6,7,no,no,49,99
+542,Mechanical Engineering,Central Washington University,Unemployed,Part Time,Fall,Spring,12,14,5,0,yes,yes,72,82
+543,Construction Engineering,Washington State University,Full Time,Full Time,Winter,Spring,1,29,6,4,yes,yes,34,36
+544,Computer Science,Walla Walla University,Unemployed,Part Time,Summer,Spring,23,9,3,3,no,no,80,76
+545,Chemical Engineering,University of Washington Tacoma,Part Time,Part Time,Winter,Spring,6,24,2,7,no,yes,61,83
+546,Electrical Engineering,University of Washington Bothell,Full Time,Part Time,Summer,Winter,3,30,3,7,no,no,15,33
+547,Mechanical Engineering,Seattle University,Unemployed,Part Time,Spring,Fall,24,17,4,6,no,no,36,93
+548,Civil Engineering,University of Washington Bothell,Unemployed,Part Time,Fall,Spring,18,6,3,3,no,yes,46,49
+549,Computer Science,Seattle University,Full Time,Part Time,Spring,Spring,13,15,5,2,no,yes,100,79
+550,General Major,Washington State University,Unemployed,Part Time,Fall,Fall,10,22,1,0,yes,yes,13,86
+551,Electrical Engineering,Walla Walla University,Full Time,Part Time,Spring,Summer,1,17,3,5,no,yes,45,39
+552,Civil Engineering,Walla Walla University,Part Time,Part Time,Fall,Summer,30,8,1,6,no,no,4,41
+553,Computer Science,University of Washington Tacoma,Unemployed,Full Time,Winter,Winter,13,30,3,3,no,no,42,94
+554,Chemical Engineering,Seattle University,Part Time,Part Time,Summer,Spring,20,19,5,3,no,no,74,50
+555,Electrical Engineering,University of Washington Seattle,Full Time,Full Time,Summer,Winter,3,8,1,0,no,no,9,57
+556,General Major,Western Washington University,Part Time,Part Time,Winter,Winter,9,15,2,0,no,yes,74,44
+557,Construction Engineering,University of Washington Tacoma,Full Time,Full Time,Winter,Fall,16,26,2,3,no,yes,60,42
+558,Construction Engineering,Walla Walla University,Full Time,Full Time,Winter,Fall,17,15,6,5,yes,yes,93,86
+559,Civil Engineering,Western Washington University,Full Time,Full Time,Spring,Spring,10,2,2,7,no,no,59,67
+560,Aeronautical Engineering,Walla Walla University,Full Time,Full Time,Winter,Winter,17,11,6,6,yes,yes,3,35
+561,Aeronautical Engineering,Central Washington University,Unemployed,Part Time,Summer,Fall,3,25,4,5,no,yes,44,89
+562,Aeronautical Engineering,Seattle University,Full Time,Full Time,Winter,Winter,2,18,6,0,yes,yes,68,80
+563,Mechanical Engineering,Washington State University,Unemployed,Full Time,Winter,Spring,13,4,6,5,yes,no,28,43
+564,Construction Engineering,Walla Walla University,Part Time,Full Time,Summer,Fall,8,25,6,6,no,no,81,75
+565,General Major,Seattle University,Full Time,Full Time,Winter,Fall,9,3,5,6,no,no,93,86
+566,Civil Engineering,University of Washington Tacoma,Unemployed,Full Time,Spring,Fall,16,19,5,5,no,no,98,79
+567,Chemical Engineering,Walla Walla University,Full Time,Part Time,Fall,Winter,7,13,6,0,no,yes,2,89
+568,Aeronautical Engineering,University of Washington Tacoma,Full Time,Full Time,Winter,Fall,15,8,4,2,no,yes,40,55
+569,Mechanical Engineering,Eastern Washington University,Unemployed,Full Time,Winter,Summer,13,5,6,6,no,no,82,32
+570,General Major,Central Washington University,Full Time,Full Time,Summer,Winter,8,1,4,4,no,no,20,40
+571,Electrical Engineering,Western Washington University,Unemployed,Full Time,Winter,Fall,5,21,2,7,yes,no,1,69
+572,Civil Engineering,Walla Walla University,Part Time,Full Time,Fall,Summer,28,19,2,5,no,yes,95,64
+573,Electrical Engineering,Eastern Washington University,Part Time,Part Time,Summer,Fall,5,12,3,2,no,yes,9,49
+574,Electrical Engineering,Central Washington University,Part Time,Part Time,Winter,Spring,7,18,1,6,yes,yes,40,34
+575,Mechanical Engineering,University of Washington Tacoma,Unemployed,Part Time,Winter,Winter,22,25,6,2,yes,no,65,33
+576,General Major,Washington State University,Full Time,Full Time,Spring,Summer,27,12,6,1,no,yes,35,99
+577,Aeronautical Engineering,Eastern Washington University,Full Time,Full Time,Fall,Spring,10,26,5,2,yes,no,22,43
+578,Computer Science,Western Washington University,Part Time,Full Time,Winter,Spring,14,4,6,3,yes,yes,91,97
+579,Mechanical Engineering,University of Washington Bothell,Full Time,Part Time,Winter,Winter,14,28,4,7,yes,no,78,92
+580,Mechanical Engineering,University of Washington Bothell,Full Time,Full Time,Winter,Winter,8,14,4,1,yes,no,20,49
+581,Mechanical Engineering,Eastern Washington University,Full Time,Full Time,Summer,Winter,25,22,1,4,yes,no,48,94
+582,Chemical Engineering,Eastern Washington University,Unemployed,Part Time,Summer,Winter,10,26,1,2,no,no,12,30
+583,Computer Science,Seattle University,Part Time,Full Time,Fall,Fall,30,11,2,7,yes,no,92,83
+584,Civil Engineering,Washington State University,Full Time,Part Time,Fall,Summer,18,10,3,6,yes,yes,2,54
+585,General Major,Walla Walla University,Full Time,Full Time,Fall,Fall,14,21,2,7,no,yes,94,71
+586,Aeronautical Engineering,Washington State University,Unemployed,Part Time,Winter,Winter,17,9,3,2,no,no,92,88
+587,Chemical Engineering,Washington State University,Part Time,Full Time,Fall,Summer,19,27,2,3,no,yes,11,53
+588,General Major,Central Washington University,Part Time,Full Time,Fall,Fall,16,3,6,0,yes,yes,92,70
+589,Aeronautical Engineering,Walla Walla University,Unemployed,Part Time,Spring,Winter,7,17,5,1,no,yes,64,37
+590,Chemical Engineering,University of Washington Bothell,Part Time,Full Time,Winter,Summer,5,24,6,1,no,yes,4,75
+591,Electrical Engineering,University of Washington Bothell,Part Time,Full Time,Fall,Spring,29,13,2,6,no,yes,35,59
+592,General Major,Western Washington University,Part Time,Full Time,Fall,Summer,16,17,3,6,no,no,18,58
+593,Electrical Engineering,Seattle University,Full Time,Full Time,Winter,Summer,4,6,5,4,yes,no,0,50
+594,Civil Engineering,Washington State University,Full Time,Full Time,Spring,Winter,17,26,5,4,yes,yes,21,63
+595,Computer Science,Eastern Washington University,Part Time,Part Time,Winter,Spring,6,13,4,1,no,no,35,39
+596,Computer Science,Western Washington University,Unemployed,Part Time,Summer,Fall,30,8,5,6,yes,no,23,61
+597,Aeronautical Engineering,University of Washington Tacoma,Unemployed,Part Time,Winter,Fall,4,27,2,1,yes,no,16,80
+598,Chemical Engineering,Walla Walla University,Unemployed,Part Time,Fall,Spring,20,2,3,7,no,yes,100,95
+599,Civil Engineering,University of Washington Seattle,Full Time,Part Time,Winter,Spring,17,16,5,6,no,no,55,68
+600,Construction Engineering,Central Washington University,Unemployed,Full Time,Summer,Winter,23,30,2,5,yes,no,45,59
+601,Civil Engineering,University of Washington Tacoma,Part Time,Full Time,Winter,Spring,22,18,2,6,no,yes,61,37
+602,Computer Science,University of Washington Bothell,Part Time,Full Time,Winter,Summer,2,9,3,6,yes,no,68,72
+603,Civil Engineering,Western Washington University,Full Time,Part Time,Summer,Summer,3,1,3,1,no,no,1,53
+604,Chemical Engineering,Central Washington University,Unemployed,Part Time,Spring,Fall,19,21,2,7,no,no,20,39
+605,General Major,Eastern Washington University,Full Time,Full Time,Fall,Fall,27,9,5,1,no,yes,49,86
+606,Electrical Engineering,Central Washington University,Unemployed,Full Time,Summer,Fall,28,26,1,4,yes,yes,78,36
+607,Electrical Engineering,University of Washington Bothell,Part Time,Full Time,Spring,Summer,16,28,1,1,yes,no,89,94
+608,Mechanical Engineering,University of Washington Bothell,Part Time,Full Time,Spring,Spring,8,13,1,3,yes,yes,86,36
+609,Computer Science,Central Washington University,Unemployed,Full Time,Summer,Fall,7,13,5,6,no,yes,0,72
+610,Aeronautical Engineering,Seattle University,Part Time,Full Time,Winter,Fall,26,7,3,5,yes,no,34,42
+611,Computer Science,Western Washington University,Part Time,Full Time,Fall,Winter,14,9,2,2,no,yes,80,67
+612,Civil Engineering,University of Washington Bothell,Unemployed,Part Time,Fall,Fall,2,15,1,6,yes,no,60,33
+613,Electrical Engineering,Walla Walla University,Full Time,Full Time,Fall,Spring,24,29,2,6,yes,yes,11,99
+614,Electrical Engineering,University of Washington Bothell,Unemployed,Part Time,Fall,Summer,25,29,2,6,no,no,93,32
+615,Aeronautical Engineering,Walla Walla University,Part Time,Part Time,Summer,Spring,25,2,4,5,no,no,2,32
+616,General Major,Washington State University,Unemployed,Full Time,Fall,Winter,23,7,4,5,no,no,22,45
+617,Electrical Engineering,Western Washington University,Part Time,Part Time,Summer,Winter,7,29,4,7,yes,yes,28,50
+618,Mechanical Engineering,Western Washington University,Unemployed,Part Time,Spring,Fall,15,2,4,0,no,no,56,70
+619,Computer Science,Western Washington University,Unemployed,Part Time,Fall,Fall,7,26,3,3,no,no,33,76
+620,Electrical Engineering,Central Washington University,Full Time,Full Time,Spring,Spring,1,17,6,5,no,no,75,92
+621,Computer Science,University of Washington Seattle,Part Time,Full Time,Winter,Summer,24,27,1,7,yes,no,50,58
+622,Mechanical Engineering,Central Washington University,Full Time,Full Time,Fall,Winter,12,15,1,4,yes,yes,69,74
+623,Construction Engineering,Eastern Washington University,Full Time,Part Time,Spring,Spring,10,29,5,1,yes,no,65,48
+624,General Major,Central Washington University,Unemployed,Part Time,Winter,Spring,21,15,5,1,yes,no,58,83
+625,Electrical Engineering,University of Washington Seattle,Part Time,Part Time,Spring,Spring,9,17,6,0,no,yes,66,63
+626,Civil Engineering,Washington State University,Full Time,Full Time,Spring,Spring,21,7,1,0,no,no,68,99
+627,Civil Engineering,University of Washington Bothell,Part Time,Full Time,Winter,Fall,19,29,6,5,no,yes,9,33
+628,Aeronautical Engineering,Eastern Washington University,Part Time,Full Time,Fall,Winter,1,21,4,3,yes,no,35,51
+629,Computer Science,Eastern Washington University,Part Time,Part Time,Fall,Fall,13,11,3,3,no,no,84,82
+630,Aeronautical Engineering,Washington State University,Full Time,Full Time,Winter,Winter,3,19,3,4,no,yes,72,36
+631,Construction Engineering,Walla Walla University,Part Time,Full Time,Summer,Winter,9,11,6,0,no,no,14,35
+632,Computer Science,University of Washington Bothell,Unemployed,Part Time,Fall,Fall,18,6,2,0,no,yes,22,92
+633,Chemical Engineering,Walla Walla University,Unemployed,Part Time,Winter,Summer,17,7,2,5,no,yes,9,46
+634,General Major,Eastern Washington University,Full Time,Part Time,Winter,Winter,27,24,5,0,no,no,7,96
+635,General Major,Eastern Washington University,Full Time,Part Time,Fall,Fall,5,7,5,2,no,yes,75,93
+636,Civil Engineering,University of Washington Tacoma,Unemployed,Part Time,Winter,Spring,9,17,6,5,yes,no,86,59
+637,General Major,Washington State University,Part Time,Part Time,Fall,Summer,25,21,3,3,yes,no,4,83
+638,Mechanical Engineering,Eastern Washington University,Unemployed,Full Time,Summer,Fall,9,30,3,0,yes,yes,23,61
+639,Civil Engineering,Western Washington University,Part Time,Full Time,Fall,Spring,15,30,1,7,yes,yes,73,97
+640,General Major,Washington State University,Full Time,Part Time,Spring,Winter,2,2,6,3,no,yes,89,82
+641,Computer Science,University of Washington Seattle,Part Time,Part Time,Fall,Winter,7,2,5,4,yes,yes,46,89
+642,Electrical Engineering,University of Washington Bothell,Full Time,Part Time,Fall,Spring,26,4,5,0,yes,no,99,93
+643,Aeronautical Engineering,Washington State University,Unemployed,Full Time,Fall,Summer,9,6,1,0,no,yes,94,82
+644,Construction Engineering,University of Washington Seattle,Unemployed,Full Time,Fall,Winter,1,22,5,4,yes,no,0,90
+645,Civil Engineering,Central Washington University,Unemployed,Full Time,Fall,Fall,18,30,3,0,yes,yes,67,76
+646,Mechanical Engineering,Washington State University,Full Time,Full Time,Summer,Winter,18,18,4,0,yes,yes,55,50
+647,Construction Engineering,Central Washington University,Full Time,Part Time,Summer,Summer,11,24,1,3,yes,no,81,60
+648,General Major,Central Washington University,Full Time,Full Time,Spring,Spring,21,17,5,3,no,yes,32,88
+649,Chemical Engineering,Seattle University,Unemployed,Part Time,Winter,Spring,17,12,6,3,yes,no,13,80
+650,Chemical Engineering,Walla Walla University,Unemployed,Full Time,Winter,Winter,8,24,3,6,yes,no,31,45
+651,Aeronautical Engineering,Washington State University,Unemployed,Full Time,Fall,Summer,14,8,1,6,no,no,7,64
+652,Electrical Engineering,Seattle University,Part Time,Part Time,Spring,Winter,23,20,1,6,no,no,65,42
+653,Mechanical Engineering,Walla Walla University,Part Time,Part Time,Summer,Spring,25,11,6,2,no,no,9,31
+654,Mechanical Engineering,Central Washington University,Unemployed,Full Time,Fall,Spring,27,14,3,4,yes,no,24,51
+655,Computer Science,University of Washington Seattle,Unemployed,Full Time,Fall,Winter,8,22,3,1,yes,yes,55,46
+656,Construction Engineering,Walla Walla University,Part Time,Part Time,Fall,Fall,19,22,2,3,no,no,64,77
+657,Chemical Engineering,University of Washington Seattle,Part Time,Part Time,Winter,Fall,27,15,4,6,yes,yes,70,41
+658,General Major,University of Washington Tacoma,Part Time,Part Time,Spring,Summer,17,15,6,7,yes,yes,35,90
+659,General Major,Walla Walla University,Full Time,Full Time,Summer,Winter,8,22,3,7,no,no,48,51
+660,Aeronautical Engineering,Seattle University,Part Time,Part Time,Winter,Summer,13,11,1,2,yes,yes,62,46
+661,Aeronautical Engineering,University of Washington Tacoma,Full Time,Part Time,Summer,Spring,15,6,1,0,yes,yes,62,69
+662,Electrical Engineering,Central Washington University,Unemployed,Part Time,Summer,Summer,3,11,6,1,yes,no,33,51
+663,Civil Engineering,University of Washington Seattle,Full Time,Part Time,Winter,Spring,25,21,5,6,yes,no,48,81
+664,General Major,Walla Walla University,Full Time,Full Time,Winter,Fall,30,10,4,5,no,yes,98,77
+665,Chemical Engineering,University of Washington Tacoma,Full Time,Part Time,Summer,Winter,5,26,2,6,no,yes,11,88
+666,Electrical Engineering,Washington State University,Unemployed,Part Time,Winter,Summer,9,6,1,6,no,no,1,96
+667,Construction Engineering,Eastern Washington University,Full Time,Part Time,Winter,Spring,30,15,4,3,no,no,83,94
+668,Electrical Engineering,Central Washington University,Full Time,Full Time,Fall,Fall,30,16,6,1,no,no,69,95
+669,Civil Engineering,Walla Walla University,Part Time,Part Time,Winter,Winter,2,11,5,6,no,yes,98,49
+670,Aeronautical Engineering,Central Washington University,Part Time,Full Time,Spring,Winter,22,19,3,2,yes,yes,62,47
+671,Construction Engineering,Central Washington University,Full Time,Part Time,Fall,Summer,12,2,3,4,yes,yes,78,50
+672,Computer Science,Central Washington University,Unemployed,Full Time,Fall,Summer,24,24,3,1,no,yes,43,94
+673,Chemical Engineering,Western Washington University,Unemployed,Full Time,Fall,Fall,17,23,1,1,yes,yes,40,98
+674,Civil Engineering,University of Washington Tacoma,Full Time,Full Time,Winter,Spring,30,21,6,7,no,no,75,62
+675,Aeronautical Engineering,Washington State University,Full Time,Full Time,Fall,Fall,27,23,2,5,yes,yes,78,63
+676,Chemical Engineering,Seattle University,Unemployed,Part Time,Summer,Summer,14,18,5,4,no,yes,60,99
+677,Civil Engineering,University of Washington Seattle,Unemployed,Part Time,Spring,Winter,9,4,2,6,yes,yes,3,80
+678,Mechanical Engineering,Eastern Washington University,Part Time,Part Time,Winter,Spring,21,18,6,0,no,no,28,69
+679,Mechanical Engineering,University of Washington Tacoma,Part Time,Full Time,Fall,Spring,15,1,3,0,no,no,100,56
+680,Chemical Engineering,University of Washington Tacoma,Part Time,Full Time,Fall,Spring,24,7,6,5,no,no,53,30
+681,Aeronautical Engineering,Eastern Washington University,Full Time,Full Time,Winter,Summer,22,16,4,2,no,no,38,56
+682,Construction Engineering,Western Washington University,Part Time,Full Time,Fall,Winter,28,14,1,4,yes,yes,68,71
+683,Chemical Engineering,Western Washington University,Unemployed,Full Time,Fall,Summer,28,9,4,6,yes,yes,36,42
+684,Civil Engineering,Western Washington University,Full Time,Part Time,Fall,Summer,8,19,2,4,yes,no,40,90
+685,General Major,University of Washington Bothell,Part Time,Full Time,Spring,Fall,1,26,6,6,yes,no,100,100
+686,Computer Science,Eastern Washington University,Part Time,Full Time,Spring,Summer,21,18,2,1,yes,yes,17,74
+687,Computer Science,University of Washington Bothell,Full Time,Part Time,Summer,Spring,7,12,5,2,no,no,60,87
+688,Mechanical Engineering,University of Washington Seattle,Unemployed,Part Time,Spring,Winter,17,9,2,0,yes,yes,26,48
+689,Mechanical Engineering,University of Washington Bothell,Unemployed,Part Time,Winter,Fall,14,6,3,3,yes,yes,51,54
+690,Electrical Engineering,Seattle University,Part Time,Part Time,Spring,Summer,3,3,5,5,yes,yes,13,67
+691,Electrical Engineering,University of Washington Seattle,Part Time,Part Time,Fall,Spring,14,11,6,5,yes,no,66,35
+692,Aeronautical Engineering,University of Washington Bothell,Unemployed,Part Time,Fall,Fall,30,28,2,0,yes,yes,5,90
+693,Construction Engineering,Walla Walla University,Part Time,Full Time,Summer,Winter,12,2,5,4,no,no,91,86
+694,Construction Engineering,Western Washington University,Part Time,Part Time,Summer,Fall,13,5,3,3,no,no,70,35
+695,Electrical Engineering,Central Washington University,Full Time,Full Time,Fall,Spring,24,13,6,4,yes,yes,99,83
+696,Electrical Engineering,Western Washington University,Full Time,Part Time,Summer,Fall,10,13,5,6,no,yes,15,43
+697,General Major,Walla Walla University,Full Time,Full Time,Summer,Spring,9,28,4,2,no,no,5,51
+698,Mechanical Engineering,Western Washington University,Full Time,Part Time,Winter,Winter,11,26,1,2,no,no,70,49
+699,Chemical Engineering,University of Washington Seattle,Unemployed,Full Time,Spring,Summer,7,28,4,7,yes,yes,59,38
+700,Chemical Engineering,Walla Walla University,Full Time,Part Time,Summer,Fall,10,29,5,3,yes,no,62,35
+701,Civil Engineering,Washington State University,Part Time,Full Time,Winter,Summer,4,19,4,1,yes,yes,59,86
+702,Computer Science,Walla Walla University,Full Time,Part Time,Winter,Spring,17,27,2,6,yes,no,91,47
+703,General Major,Western Washington University,Part Time,Full Time,Summer,Spring,29,15,6,1,no,yes,1,42
+704,General Major,University of Washington Seattle,Full Time,Part Time,Spring,Spring,23,1,4,1,yes,yes,56,96
+705,Aeronautical Engineering,University of Washington Bothell,Full Time,Full Time,Summer,Summer,8,11,2,4,no,yes,58,61
+706,Civil Engineering,University of Washington Tacoma,Full Time,Full Time,Fall,Summer,17,14,3,0,no,no,16,55
+707,Electrical Engineering,University of Washington Seattle,Part Time,Part Time,Fall,Summer,25,9,6,0,no,no,82,90
+708,Chemical Engineering,Seattle University,Unemployed,Full Time,Summer,Summer,20,15,5,7,no,no,47,97
+709,Computer Science,Washington State University,Full Time,Full Time,Spring,Summer,28,29,2,4,no,yes,71,52
+710,Chemical Engineering,Western Washington University,Part Time,Full Time,Winter,Spring,26,1,2,5,yes,yes,41,88
+711,Chemical Engineering,Western Washington University,Unemployed,Full Time,Winter,Spring,26,6,5,3,no,no,66,44
+712,Computer Science,Eastern Washington University,Part Time,Full Time,Fall,Spring,1,17,4,0,yes,yes,61,32
+713,Electrical Engineering,Walla Walla University,Unemployed,Part Time,Summer,Winter,20,17,5,4,no,yes,61,61
+714,Electrical Engineering,University of Washington Tacoma,Part Time,Full Time,Winter,Winter,3,12,6,1,yes,yes,7,45
+715,Electrical Engineering,University of Washington Seattle,Full Time,Full Time,Winter,Fall,23,21,3,6,no,yes,78,89
+716,Chemical Engineering,Washington State University,Part Time,Part Time,Spring,Fall,14,1,5,0,yes,yes,31,51
+717,Construction Engineering,University of Washington Tacoma,Part Time,Part Time,Winter,Fall,9,9,5,2,no,no,51,88
+718,Chemical Engineering,University of Washington Tacoma,Unemployed,Full Time,Winter,Summer,13,27,5,7,no,yes,95,37
+719,Computer Science,Central Washington University,Unemployed,Full Time,Spring,Fall,27,27,1,5,yes,no,81,69
+720,Aeronautical Engineering,University of Washington Seattle,Full Time,Full Time,Fall,Summer,29,3,1,7,yes,yes,67,59
+721,Construction Engineering,University of Washington Tacoma,Full Time,Full Time,Fall,Winter,28,29,5,2,yes,no,24,58
+722,Chemical Engineering,Central Washington University,Unemployed,Part Time,Fall,Fall,23,28,4,7,yes,yes,61,53
+723,Chemical Engineering,Walla Walla University,Part Time,Full Time,Winter,Winter,14,22,2,5,yes,no,8,48
+724,Construction Engineering,Washington State University,Full Time,Full Time,Fall,Summer,2,27,5,6,yes,no,50,44
+725,Chemical Engineering,Central Washington University,Unemployed,Part Time,Winter,Summer,10,13,6,4,no,yes,43,51
+726,Construction Engineering,Seattle University,Unemployed,Full Time,Spring,Fall,3,10,5,0,yes,no,26,74
+727,Construction Engineering,Central Washington University,Unemployed,Part Time,Fall,Winter,9,5,2,7,no,yes,27,70
+728,Chemical Engineering,Washington State University,Full Time,Full Time,Spring,Spring,1,4,4,7,yes,yes,83,92
+729,General Major,Central Washington University,Full Time,Full Time,Spring,Spring,24,22,4,5,yes,no,70,98
+730,Mechanical Engineering,Washington State University,Unemployed,Full Time,Winter,Fall,19,29,2,2,yes,no,3,50
+731,Mechanical Engineering,Western Washington University,Full Time,Full Time,Summer,Winter,7,27,4,0,yes,yes,20,65
+732,Construction Engineering,Western Washington University,Part Time,Full Time,Fall,Spring,28,27,2,2,no,yes,37,37
+733,Chemical Engineering,Walla Walla University,Full Time,Full Time,Winter,Spring,21,25,4,6,no,no,1,84
+734,Chemical Engineering,University of Washington Bothell,Unemployed,Part Time,Summer,Spring,13,28,1,0,no,yes,98,45
+735,General Major,Eastern Washington University,Unemployed,Part Time,Spring,Winter,7,28,4,5,no,yes,4,92
+736,Civil Engineering,Eastern Washington University,Unemployed,Full Time,Spring,Fall,12,1,2,1,yes,no,20,87
+737,Civil Engineering,Western Washington University,Part Time,Full Time,Winter,Winter,1,13,2,2,no,no,48,60
+738,Chemical Engineering,Washington State University,Part Time,Part Time,Winter,Spring,22,9,4,1,no,yes,56,94
+739,Construction Engineering,Walla Walla University,Full Time,Full Time,Summer,Summer,9,24,3,3,yes,yes,83,40
+740,Civil Engineering,University of Washington Bothell,Unemployed,Full Time,Fall,Spring,8,26,4,6,yes,yes,95,43
+741,Chemical Engineering,Walla Walla University,Unemployed,Full Time,Fall,Fall,8,13,2,3,no,no,16,78
+742,Electrical Engineering,Seattle University,Full Time,Full Time,Winter,Winter,1,7,3,5,no,no,48,45
+743,Construction Engineering,University of Washington Tacoma,Unemployed,Full Time,Summer,Spring,23,17,6,0,yes,no,6,81
+744,General Major,Central Washington University,Full Time,Full Time,Summer,Fall,7,23,4,0,yes,no,94,75
+745,Construction Engineering,University of Washington Seattle,Full Time,Part Time,Fall,Summer,15,1,3,6,yes,no,21,34
+746,Electrical Engineering,Central Washington University,Unemployed,Part Time,Fall,Fall,1,23,6,4,no,yes,58,100
+747,Civil Engineering,University of Washington Tacoma,Unemployed,Part Time,Spring,Spring,25,7,1,1,no,no,80,82
+748,Construction Engineering,Washington State University,Part Time,Part Time,Spring,Fall,10,11,5,0,yes,no,12,96
+749,Electrical Engineering,University of Washington Seattle,Part Time,Full Time,Fall,Spring,5,13,6,6,yes,yes,38,87
+750,Chemical Engineering,Walla Walla University,Unemployed,Part Time,Winter,Summer,17,26,6,4,no,no,92,86
+751,Aeronautical Engineering,Eastern Washington University,Full Time,Full Time,Summer,Spring,21,21,3,0,yes,yes,26,69
+752,Civil Engineering,Washington State University,Part Time,Full Time,Winter,Winter,18,1,1,2,yes,no,57,69
+753,Electrical Engineering,Central Washington University,Unemployed,Full Time,Winter,Winter,9,1,3,5,no,no,6,90
+754,Construction Engineering,Washington State University,Unemployed,Part Time,Spring,Fall,14,6,4,7,no,no,55,82
+755,Chemical Engineering,Western Washington University,Full Time,Full Time,Fall,Spring,14,9,6,6,no,no,50,45
+756,Construction Engineering,Central Washington University,Unemployed,Part Time,Winter,Summer,2,27,2,6,yes,yes,91,74
+757,Construction Engineering,Seattle University,Part Time,Full Time,Summer,Summer,24,29,4,3,no,no,89,42
+758,Chemical Engineering,Central Washington University,Full Time,Full Time,Fall,Fall,12,22,1,3,yes,yes,2,48
+759,Chemical Engineering,University of Washington Seattle,Full Time,Full Time,Winter,Spring,15,30,3,1,no,no,23,37
+760,Chemical Engineering,Central Washington University,Part Time,Full Time,Fall,Spring,22,24,4,7,yes,yes,75,93
+761,Computer Science,Western Washington University,Full Time,Full Time,Spring,Winter,10,2,3,2,no,yes,8,98
+762,Mechanical Engineering,University of Washington Seattle,Part Time,Part Time,Spring,Summer,6,2,1,1,no,yes,3,73
+763,General Major,Eastern Washington University,Full Time,Full Time,Fall,Fall,15,10,4,5,yes,yes,17,95
+764,Computer Science,Seattle University,Part Time,Full Time,Spring,Fall,27,8,1,0,yes,no,28,86
+765,Electrical Engineering,Western Washington University,Part Time,Part Time,Fall,Summer,26,22,1,7,no,yes,46,82
+766,Computer Science,Western Washington University,Unemployed,Full Time,Fall,Winter,4,8,5,3,yes,yes,18,32
+767,Chemical Engineering,University of Washington Seattle,Part Time,Part Time,Winter,Fall,12,30,6,3,no,yes,86,58
+768,Mechanical Engineering,Washington State University,Full Time,Part Time,Spring,Spring,13,24,1,4,no,no,49,78
+769,General Major,University of Washington Seattle,Unemployed,Full Time,Summer,Winter,25,6,5,0,yes,yes,4,56
+770,Construction Engineering,Seattle University,Unemployed,Part Time,Spring,Spring,16,18,1,3,yes,yes,49,40
+771,Electrical Engineering,Eastern Washington University,Part Time,Full Time,Summer,Fall,17,5,5,4,no,yes,100,44
+772,Electrical Engineering,University of Washington Bothell,Unemployed,Full Time,Spring,Fall,25,30,1,1,no,yes,55,100
+773,Construction Engineering,Seattle University,Part Time,Part Time,Fall,Summer,8,15,1,3,no,no,89,48
+774,Chemical Engineering,University of Washington Tacoma,Part Time,Part Time,Spring,Summer,3,28,1,0,no,yes,12,99
+775,Electrical Engineering,Walla Walla University,Unemployed,Part Time,Summer,Winter,8,4,6,6,no,no,85,80
+776,Construction Engineering,Walla Walla University,Unemployed,Full Time,Summer,Fall,26,14,3,6,yes,yes,98,64
+777,Electrical Engineering,Western Washington University,Unemployed,Full Time,Spring,Summer,26,30,3,6,no,yes,39,56
+778,Aeronautical Engineering,University of Washington Bothell,Unemployed,Full Time,Summer,Spring,2,25,4,0,no,no,7,45
+779,General Major,Washington State University,Full Time,Full Time,Winter,Fall,14,2,1,0,yes,yes,94,56
+780,General Major,Washington State University,Part Time,Part Time,Summer,Spring,17,18,2,6,no,yes,12,64
+781,Aeronautical Engineering,Walla Walla University,Full Time,Full Time,Winter,Spring,3,6,1,4,no,no,3,44
+782,Aeronautical Engineering,Washington State University,Full Time,Part Time,Winter,Summer,13,7,3,3,no,no,85,92
+783,General Major,Walla Walla University,Full Time,Part Time,Spring,Winter,25,6,5,4,no,yes,38,40
+784,Aeronautical Engineering,University of Washington Seattle,Unemployed,Part Time,Summer,Summer,9,6,5,5,no,yes,70,75
+785,Aeronautical Engineering,Western Washington University,Unemployed,Full Time,Winter,Spring,6,9,4,2,no,yes,22,71
+786,Aeronautical Engineering,University of Washington Seattle,Full Time,Part Time,Winter,Spring,15,13,5,6,no,no,87,76
+787,Computer Science,University of Washington Seattle,Unemployed,Full Time,Winter,Summer,9,1,6,1,no,yes,91,47
+788,General Major,Walla Walla University,Unemployed,Full Time,Spring,Winter,25,19,3,1,no,yes,10,95
+789,Electrical Engineering,Western Washington University,Part Time,Part Time,Winter,Spring,20,10,2,5,no,no,26,75
+790,Aeronautical Engineering,Eastern Washington University,Unemployed,Full Time,Fall,Spring,10,4,4,2,yes,yes,48,70
+791,Computer Science,Central Washington University,Unemployed,Full Time,Winter,Spring,2,18,6,2,no,no,77,44
+792,General Major,Seattle University,Unemployed,Part Time,Summer,Winter,28,8,6,7,no,yes,56,36
+793,Mechanical Engineering,Washington State University,Unemployed,Part Time,Fall,Fall,6,6,5,4,no,yes,67,56
+794,Electrical Engineering,Walla Walla University,Unemployed,Part Time,Summer,Fall,9,16,3,1,yes,yes,62,56
+795,Aeronautical Engineering,University of Washington Tacoma,Part Time,Full Time,Summer,Spring,29,25,2,7,no,no,0,35
+796,Aeronautical Engineering,Eastern Washington University,Full Time,Part Time,Fall,Spring,20,18,6,3,yes,no,42,81
+797,Computer Science,Central Washington University,Unemployed,Full Time,Winter,Fall,10,16,5,6,no,yes,71,66
+798,Construction Engineering,Walla Walla University,Full Time,Part Time,Summer,Fall,28,29,4,6,no,yes,88,34
+799,General Major,University of Washington Seattle,Part Time,Part Time,Summer,Winter,25,16,5,2,yes,yes,34,54
+800,General Major,Washington State University,Full Time,Full Time,Spring,Winter,9,15,4,2,no,yes,59,80
+801,Mechanical Engineering,Western Washington University,Part Time,Part Time,Spring,Winter,24,2,5,1,yes,no,79,83
+802,Chemical Engineering,Central Washington University,Full Time,Full Time,Spring,Summer,4,21,6,7,no,no,57,80
+803,General Major,Central Washington University,Part Time,Full Time,Spring,Spring,3,13,6,2,yes,no,15,57
+804,Electrical Engineering,University of Washington Tacoma,Unemployed,Part Time,Summer,Fall,28,18,1,5,no,yes,9,74
+805,Electrical Engineering,Eastern Washington University,Part Time,Full Time,Fall,Winter,4,5,3,3,yes,no,65,93
+806,Computer Science,University of Washington Tacoma,Full Time,Full Time,Spring,Winter,23,12,5,3,no,no,90,63
+807,Aeronautical Engineering,University of Washington Bothell,Unemployed,Part Time,Summer,Fall,23,28,3,3,yes,no,98,63
+808,General Major,Washington State University,Unemployed,Part Time,Winter,Summer,24,21,4,1,yes,no,46,42
+809,Civil Engineering,Eastern Washington University,Unemployed,Full Time,Summer,Fall,14,28,3,5,no,yes,90,44
+810,Electrical Engineering,Walla Walla University,Part Time,Full Time,Summer,Spring,23,4,3,7,yes,no,1,63
+811,Chemical Engineering,Walla Walla University,Unemployed,Full Time,Summer,Winter,12,30,6,4,no,yes,61,38
+812,Electrical Engineering,Washington State University,Part Time,Part Time,Fall,Summer,17,30,1,0,yes,no,42,92
+813,Civil Engineering,Seattle University,Unemployed,Full Time,Summer,Fall,22,20,5,3,yes,yes,15,66
+814,Construction Engineering,University of Washington Bothell,Part Time,Part Time,Spring,Spring,14,11,6,0,no,no,15,83
+815,General Major,University of Washington Seattle,Full Time,Part Time,Spring,Summer,29,17,4,0,no,yes,46,77
+816,Computer Science,Central Washington University,Part Time,Part Time,Summer,Spring,11,24,5,5,yes,no,38,83
+817,Mechanical Engineering,Eastern Washington University,Full Time,Full Time,Spring,Summer,4,16,6,4,no,no,69,47
+818,Civil Engineering,Western Washington University,Part Time,Full Time,Summer,Spring,14,6,3,0,no,yes,97,57
+819,General Major,Washington State University,Full Time,Full Time,Winter,Winter,19,22,4,5,no,no,9,86
+820,Chemical Engineering,University of Washington Bothell,Full Time,Part Time,Spring,Winter,20,3,4,4,no,yes,59,47
+821,Electrical Engineering,University of Washington Bothell,Part Time,Full Time,Fall,Winter,18,1,3,2,yes,yes,88,73
+822,Aeronautical Engineering,Washington State University,Part Time,Part Time,Fall,Summer,7,27,6,7,yes,no,7,62
+823,Electrical Engineering,Washington State University,Full Time,Full Time,Summer,Summer,13,18,3,0,no,yes,38,97
+824,Construction Engineering,Washington State University,Part Time,Full Time,Summer,Fall,13,9,3,5,no,no,1,100
+825,Chemical Engineering,Eastern Washington University,Unemployed,Full Time,Spring,Spring,26,8,2,4,yes,yes,54,30
+826,Chemical Engineering,Walla Walla University,Unemployed,Full Time,Spring,Spring,29,24,6,7,no,no,81,34
+827,Chemical Engineering,Central Washington University,Part Time,Full Time,Summer,Summer,1,25,1,5,yes,yes,12,76
+828,Electrical Engineering,Washington State University,Unemployed,Part Time,Spring,Spring,26,29,1,3,no,yes,0,66
+829,General Major,Eastern Washington University,Full Time,Part Time,Fall,Spring,26,11,6,5,yes,no,51,39
+830,Chemical Engineering,University of Washington Tacoma,Full Time,Full Time,Spring,Summer,12,1,5,3,yes,no,74,80
+831,Computer Science,Walla Walla University,Part Time,Part Time,Fall,Summer,24,14,4,6,no,yes,0,98
+832,Chemical Engineering,University of Washington Tacoma,Unemployed,Part Time,Summer,Fall,25,21,1,3,no,no,73,30
+833,Chemical Engineering,Eastern Washington University,Full Time,Full Time,Spring,Winter,26,23,3,6,no,no,18,75
+834,Civil Engineering,Central Washington University,Unemployed,Full Time,Spring,Winter,30,18,1,3,yes,no,44,76
+835,Construction Engineering,University of Washington Bothell,Unemployed,Full Time,Summer,Fall,18,8,5,5,no,yes,57,76
+836,Mechanical Engineering,Washington State University,Part Time,Full Time,Spring,Fall,10,6,3,3,yes,no,90,57
+837,Electrical Engineering,Walla Walla University,Part Time,Full Time,Fall,Spring,23,9,5,6,no,yes,77,77
+838,Computer Science,University of Washington Seattle,Part Time,Part Time,Fall,Fall,12,19,6,0,no,no,74,50
+839,Civil Engineering,Washington State University,Part Time,Part Time,Summer,Summer,22,21,4,0,yes,no,25,63
+840,Electrical Engineering,Eastern Washington University,Unemployed,Part Time,Winter,Summer,29,18,6,2,no,yes,80,91
+841,Electrical Engineering,Eastern Washington University,Part Time,Full Time,Winter,Spring,10,16,6,4,yes,yes,42,31
+842,Chemical Engineering,Western Washington University,Unemployed,Part Time,Spring,Winter,30,11,6,2,yes,yes,63,57
+843,Computer Science,Washington State University,Unemployed,Part Time,Spring,Fall,14,1,3,4,no,yes,27,98
+844,Aeronautical Engineering,Washington State University,Unemployed,Full Time,Fall,Summer,15,15,6,6,yes,yes,79,76
+845,Civil Engineering,Eastern Washington University,Full Time,Part Time,Fall,Summer,10,14,2,4,yes,yes,77,32
+846,Electrical Engineering,Washington State University,Unemployed,Full Time,Fall,Winter,20,24,3,0,no,yes,16,73
+847,Civil Engineering,University of Washington Tacoma,Full Time,Part Time,Summer,Spring,13,11,5,0,no,no,95,66
+848,Aeronautical Engineering,Western Washington University,Unemployed,Full Time,Summer,Spring,18,16,6,7,no,yes,70,80
+849,Computer Science,University of Washington Seattle,Part Time,Part Time,Winter,Spring,13,8,1,6,yes,no,64,33
+850,Mechanical Engineering,Seattle University,Part Time,Full Time,Winter,Summer,2,18,4,1,yes,yes,15,95
+851,Civil Engineering,Walla Walla University,Unemployed,Full Time,Winter,Summer,19,19,4,7,yes,no,42,49
+852,Aeronautical Engineering,Walla Walla University,Unemployed,Part Time,Spring,Spring,9,28,5,1,yes,yes,89,43
+853,Computer Science,University of Washington Seattle,Part Time,Part Time,Spring,Summer,24,30,3,6,yes,yes,88,93
+854,Computer Science,Washington State University,Unemployed,Part Time,Spring,Summer,28,16,4,3,yes,no,36,76
+855,Computer Science,Western Washington University,Part Time,Part Time,Spring,Spring,22,18,4,7,no,yes,37,65
+856,Construction Engineering,University of Washington Seattle,Full Time,Part Time,Summer,Spring,5,18,6,5,yes,yes,99,72
+857,Construction Engineering,University of Washington Tacoma,Part Time,Part Time,Spring,Summer,17,14,1,3,yes,no,43,51
+858,Electrical Engineering,Washington State University,Part Time,Part Time,Winter,Fall,12,9,3,0,yes,no,77,94
+859,Civil Engineering,Walla Walla University,Unemployed,Full Time,Fall,Winter,5,9,6,0,no,no,3,88
+860,Construction Engineering,University of Washington Bothell,Full Time,Full Time,Summer,Summer,9,3,2,1,yes,no,40,53
+861,General Major,Western Washington University,Unemployed,Part Time,Winter,Fall,27,24,6,3,yes,no,60,65
+862,Construction Engineering,University of Washington Seattle,Full Time,Full Time,Fall,Summer,18,28,1,3,yes,yes,27,44
+863,Construction Engineering,University of Washington Bothell,Unemployed,Full Time,Fall,Summer,16,23,1,3,no,no,92,92
+864,Mechanical Engineering,Central Washington University,Unemployed,Full Time,Summer,Summer,19,27,6,2,yes,yes,67,88
+865,Construction Engineering,Central Washington University,Part Time,Full Time,Spring,Winter,27,29,4,0,no,yes,100,31
+866,General Major,Central Washington University,Unemployed,Full Time,Summer,Fall,3,17,5,1,no,yes,36,31
+867,General Major,University of Washington Seattle,Part Time,Part Time,Winter,Summer,17,10,4,3,yes,no,87,73
+868,General Major,Walla Walla University,Full Time,Part Time,Winter,Summer,30,12,2,5,no,no,72,71
+869,Electrical Engineering,Washington State University,Full Time,Full Time,Spring,Spring,24,23,5,1,yes,yes,21,89
+870,Civil Engineering,Washington State University,Full Time,Full Time,Fall,Summer,24,27,6,6,yes,yes,57,35
+871,Aeronautical Engineering,Walla Walla University,Unemployed,Part Time,Summer,Winter,27,2,5,1,yes,yes,94,85
+872,Construction Engineering,University of Washington Seattle,Unemployed,Full Time,Fall,Fall,3,13,1,1,no,no,61,40
+873,Chemical Engineering,Seattle University,Unemployed,Part Time,Winter,Summer,14,24,5,5,yes,yes,57,52
+874,Chemical Engineering,University of Washington Bothell,Unemployed,Part Time,Spring,Fall,21,17,5,3,yes,yes,49,97
+875,Chemical Engineering,University of Washington Seattle,Part Time,Full Time,Winter,Fall,18,2,2,4,yes,no,59,63
+876,General Major,Walla Walla University,Unemployed,Part Time,Summer,Summer,29,12,6,0,yes,no,69,57
+877,Chemical Engineering,University of Washington Bothell,Full Time,Part Time,Spring,Spring,4,30,5,1,yes,no,88,74
+878,Mechanical Engineering,Seattle University,Full Time,Part Time,Spring,Fall,28,20,2,3,yes,no,64,36
+879,Chemical Engineering,University of Washington Seattle,Part Time,Part Time,Spring,Winter,20,10,5,1,yes,yes,79,50
+880,Construction Engineering,University of Washington Bothell,Unemployed,Part Time,Fall,Winter,21,21,5,1,no,no,50,39
+881,Mechanical Engineering,Washington State University,Part Time,Full Time,Fall,Fall,23,27,2,2,yes,no,44,74
+882,Electrical Engineering,University of Washington Tacoma,Full Time,Part Time,Summer,Spring,19,4,5,3,no,yes,97,88
+883,Construction Engineering,Central Washington University,Part Time,Part Time,Summer,Winter,6,7,5,5,yes,yes,85,88
+884,Chemical Engineering,Walla Walla University,Part Time,Part Time,Summer,Summer,20,9,1,5,no,yes,35,79
+885,Aeronautical Engineering,Seattle University,Full Time,Part Time,Spring,Fall,9,8,1,3,yes,no,14,78
+886,Electrical Engineering,Western Washington University,Unemployed,Part Time,Fall,Spring,21,29,2,0,no,yes,98,74
+887,Civil Engineering,Walla Walla University,Full Time,Part Time,Spring,Spring,9,24,5,5,yes,yes,20,48
+888,Mechanical Engineering,Eastern Washington University,Full Time,Full Time,Winter,Fall,20,2,2,4,yes,no,98,35
+889,Construction Engineering,Eastern Washington University,Unemployed,Full Time,Spring,Fall,4,15,2,5,no,no,85,78
+890,Electrical Engineering,Eastern Washington University,Unemployed,Part Time,Spring,Spring,17,7,5,2,yes,no,50,38
+891,Electrical Engineering,University of Washington Seattle,Full Time,Part Time,Fall,Fall,5,15,6,1,yes,yes,55,81
+892,Aeronautical Engineering,University of Washington Tacoma,Unemployed,Part Time,Winter,Spring,17,18,1,0,no,yes,90,47
+893,Civil Engineering,Walla Walla University,Unemployed,Full Time,Winter,Summer,10,2,2,6,yes,yes,71,80
+894,Mechanical Engineering,Washington State University,Full Time,Full Time,Spring,Fall,1,1,3,5,yes,no,10,60
+895,Civil Engineering,Seattle University,Full Time,Part Time,Winter,Spring,29,29,1,1,no,yes,33,85
+896,Mechanical Engineering,University of Washington Seattle,Part Time,Full Time,Spring,Spring,22,29,6,2,yes,yes,11,32
+897,Aeronautical Engineering,University of Washington Tacoma,Part Time,Part Time,Summer,Spring,10,12,5,1,no,no,33,47
+898,Construction Engineering,Western Washington University,Unemployed,Part Time,Summer,Fall,19,23,4,0,yes,yes,33,88
+899,Computer Science,Western Washington University,Full Time,Part Time,Spring,Spring,21,6,4,0,no,no,23,43
+900,Chemical Engineering,Central Washington University,Full Time,Full Time,Spring,Fall,9,3,6,1,no,yes,2,85
+901,Construction Engineering,University of Washington Seattle,Part Time,Full Time,Winter,Summer,22,26,3,5,no,yes,53,37
+902,Chemical Engineering,Seattle University,Part Time,Part Time,Spring,Winter,30,30,5,1,yes,no,51,32
+903,Mechanical Engineering,Washington State University,Unemployed,Part Time,Summer,Fall,3,5,4,3,no,no,12,34
+904,Civil Engineering,University of Washington Seattle,Full Time,Full Time,Winter,Summer,6,11,3,3,no,no,13,93
+905,Aeronautical Engineering,University of Washington Bothell,Full Time,Full Time,Summer,Winter,26,2,4,5,yes,yes,85,68
+906,Electrical Engineering,Eastern Washington University,Part Time,Full Time,Summer,Fall,2,1,2,1,no,no,57,77
+907,Mechanical Engineering,University of Washington Tacoma,Part Time,Full Time,Summer,Fall,13,23,5,5,no,yes,20,60
+908,Computer Science,Washington State University,Full Time,Part Time,Winter,Summer,19,17,3,5,no,no,22,54
+909,Computer Science,University of Washington Bothell,Unemployed,Part Time,Summer,Winter,4,23,3,0,yes,yes,100,53
+910,Civil Engineering,Seattle University,Part Time,Full Time,Fall,Winter,30,13,4,4,no,yes,32,64
+911,General Major,University of Washington Tacoma,Unemployed,Part Time,Spring,Winter,5,27,4,1,no,yes,78,89
+912,Electrical Engineering,Washington State University,Unemployed,Part Time,Spring,Summer,17,19,4,7,yes,no,84,69
+913,Computer Science,University of Washington Bothell,Part Time,Part Time,Fall,Spring,3,5,2,6,no,yes,76,78
+914,Electrical Engineering,Eastern Washington University,Full Time,Full Time,Summer,Fall,8,11,4,3,yes,no,92,47
+915,Aeronautical Engineering,Central Washington University,Full Time,Part Time,Winter,Winter,27,1,5,2,no,yes,83,38
+916,Mechanical Engineering,Western Washington University,Part Time,Part Time,Spring,Summer,18,30,2,1,no,no,96,39
+917,Aeronautical Engineering,Western Washington University,Part Time,Part Time,Fall,Winter,24,15,1,7,no,no,3,40
+918,Electrical Engineering,Walla Walla University,Part Time,Full Time,Winter,Spring,29,29,5,2,yes,no,77,49
+919,Computer Science,Western Washington University,Unemployed,Part Time,Summer,Spring,3,6,2,6,no,no,17,97
+920,Construction Engineering,University of Washington Bothell,Part Time,Full Time,Spring,Winter,7,9,6,7,yes,no,40,47
+921,Aeronautical Engineering,University of Washington Tacoma,Full Time,Part Time,Spring,Spring,18,6,5,5,yes,no,98,78
+922,Aeronautical Engineering,Walla Walla University,Unemployed,Part Time,Spring,Summer,27,16,1,1,yes,no,47,93
+923,General Major,Central Washington University,Full Time,Full Time,Winter,Winter,29,7,6,7,yes,yes,78,35
+924,Computer Science,Washington State University,Part Time,Full Time,Spring,Spring,2,17,6,0,yes,no,90,64
+925,Computer Science,Central Washington University,Full Time,Part Time,Winter,Spring,2,23,3,5,yes,yes,97,60
+926,Civil Engineering,University of Washington Tacoma,Unemployed,Full Time,Spring,Spring,1,5,2,0,no,yes,8,52
+927,General Major,Central Washington University,Part Time,Full Time,Summer,Summer,1,21,2,0,yes,no,76,92
+928,Chemical Engineering,Central Washington University,Full Time,Part Time,Spring,Spring,21,3,6,5,no,yes,9,41
+929,Computer Science,University of Washington Seattle,Unemployed,Part Time,Summer,Spring,16,18,3,6,yes,yes,36,56
+930,Chemical Engineering,University of Washington Tacoma,Part Time,Full Time,Spring,Spring,25,16,5,6,yes,yes,64,79
+931,Electrical Engineering,Western Washington University,Full Time,Part Time,Spring,Spring,2,8,1,2,yes,no,57,60
+932,Construction Engineering,University of Washington Tacoma,Unemployed,Part Time,Summer,Summer,4,13,1,5,no,no,20,79
+933,Aeronautical Engineering,University of Washington Tacoma,Unemployed,Full Time,Spring,Summer,2,16,3,5,no,yes,30,65
+934,Aeronautical Engineering,University of Washington Tacoma,Unemployed,Part Time,Spring,Fall,26,18,6,3,yes,yes,7,54
+935,Aeronautical Engineering,Washington State University,Unemployed,Full Time,Spring,Spring,12,25,6,6,no,yes,61,76
+936,Mechanical Engineering,University of Washington Tacoma,Part Time,Full Time,Winter,Spring,13,29,6,4,yes,yes,6,39
+937,General Major,Western Washington University,Part Time,Full Time,Spring,Winter,14,8,1,0,yes,no,98,37
+938,Aeronautical Engineering,Eastern Washington University,Unemployed,Full Time,Summer,Fall,6,28,4,2,yes,no,66,75
+939,Computer Science,Washington State University,Unemployed,Full Time,Winter,Summer,17,24,4,5,yes,no,81,79
+940,Mechanical Engineering,Eastern Washington University,Unemployed,Full Time,Fall,Spring,22,17,2,7,no,yes,18,93
+941,Mechanical Engineering,Eastern Washington University,Part Time,Part Time,Spring,Fall,16,18,4,2,yes,no,10,50
+942,Civil Engineering,Eastern Washington University,Full Time,Full Time,Spring,Fall,2,2,6,3,yes,no,62,92
+943,Mechanical Engineering,University of Washington Bothell,Unemployed,Full Time,Winter,Fall,6,2,6,4,yes,no,34,66
+944,Construction Engineering,University of Washington Tacoma,Unemployed,Full Time,Winter,Winter,14,8,5,7,yes,yes,24,94
+945,Electrical Engineering,University of Washington Tacoma,Part Time,Full Time,Winter,Spring,6,6,6,6,yes,no,67,45
+946,Chemical Engineering,Central Washington University,Full Time,Full Time,Spring,Spring,11,28,3,5,yes,yes,0,79
+947,Chemical Engineering,Eastern Washington University,Unemployed,Full Time,Spring,Summer,18,11,6,3,yes,no,67,44
+948,Civil Engineering,Seattle University,Full Time,Part Time,Summer,Spring,12,24,4,1,no,no,35,75
+949,General Major,Central Washington University,Unemployed,Part Time,Spring,Fall,11,23,2,5,no,no,68,44
+950,Civil Engineering,Eastern Washington University,Unemployed,Part Time,Spring,Spring,30,13,1,7,no,yes,14,50
+951,Electrical Engineering,University of Washington Seattle,Full Time,Full Time,Spring,Fall,25,29,4,6,yes,no,35,33
+952,Chemical Engineering,University of Washington Tacoma,Unemployed,Part Time,Summer,Winter,27,15,3,2,no,no,75,64
+953,General Major,University of Washington Seattle,Part Time,Part Time,Spring,Summer,29,15,4,2,yes,yes,45,89
+954,Electrical Engineering,Western Washington University,Part Time,Part Time,Spring,Winter,5,1,3,7,no,yes,45,52
+955,Mechanical Engineering,University of Washington Seattle,Unemployed,Part Time,Fall,Summer,13,5,5,6,yes,yes,60,100
+956,Civil Engineering,University of Washington Tacoma,Full Time,Part Time,Winter,Fall,14,17,3,1,no,no,42,74
+957,Computer Science,University of Washington Tacoma,Full Time,Full Time,Winter,Spring,16,22,2,2,yes,no,42,78
+958,Aeronautical Engineering,Western Washington University,Full Time,Full Time,Spring,Spring,6,7,3,0,no,no,35,69
+959,Mechanical Engineering,Western Washington University,Part Time,Part Time,Spring,Summer,1,14,6,0,no,yes,42,35
+960,Mechanical Engineering,Central Washington University,Full Time,Part Time,Spring,Spring,4,8,2,5,no,no,90,34
+961,Aeronautical Engineering,Walla Walla University,Full Time,Part Time,Winter,Summer,3,13,1,2,no,yes,14,36
+962,Computer Science,Washington State University,Full Time,Part Time,Summer,Summer,16,21,2,0,yes,yes,0,96
+963,General Major,Walla Walla University,Unemployed,Full Time,Spring,Spring,4,23,5,5,yes,no,25,59
+964,Electrical Engineering,University of Washington Tacoma,Unemployed,Part Time,Winter,Summer,22,23,2,6,no,no,96,36
+965,General Major,Eastern Washington University,Part Time,Full Time,Summer,Fall,27,12,2,2,yes,yes,17,49
+966,Construction Engineering,Seattle University,Full Time,Full Time,Winter,Winter,18,30,3,6,no,yes,59,77
+967,Computer Science,Walla Walla University,Full Time,Full Time,Fall,Winter,14,16,2,5,no,yes,28,67
+968,Aeronautical Engineering,Washington State University,Part Time,Full Time,Spring,Winter,7,27,4,2,yes,no,19,64
+969,Civil Engineering,Seattle University,Full Time,Part Time,Winter,Summer,8,23,5,7,yes,yes,35,69
+970,Electrical Engineering,University of Washington Seattle,Unemployed,Part Time,Winter,Summer,20,30,3,4,yes,yes,2,69
+971,Construction Engineering,Seattle University,Full Time,Part Time,Winter,Fall,25,12,1,4,yes,no,33,32
+972,Construction Engineering,Central Washington University,Full Time,Full Time,Spring,Summer,9,17,4,7,no,no,91,54
+973,Construction Engineering,University of Washington Tacoma,Unemployed,Part Time,Summer,Winter,30,16,3,4,yes,no,79,48
+974,Construction Engineering,Walla Walla University,Part Time,Part Time,Winter,Winter,2,11,5,2,no,no,21,76
+975,Civil Engineering,University of Washington Tacoma,Full Time,Part Time,Winter,Fall,10,3,1,7,yes,no,37,64
+976,Chemical Engineering,Eastern Washington University,Unemployed,Full Time,Fall,Summer,22,13,5,3,yes,no,70,63
+977,Electrical Engineering,Walla Walla University,Part Time,Part Time,Spring,Fall,14,18,6,5,yes,yes,45,42
+978,Construction Engineering,Seattle University,Full Time,Part Time,Fall,Summer,11,26,1,7,yes,no,21,81
+979,Mechanical Engineering,University of Washington Bothell,Full Time,Part Time,Winter,Summer,6,15,3,0,no,yes,25,80
+980,Aeronautical Engineering,Central Washington University,Part Time,Part Time,Fall,Fall,5,23,4,5,yes,no,18,41
+981,Aeronautical Engineering,Walla Walla University,Part Time,Part Time,Spring,Summer,3,15,3,2,no,no,72,76
+982,Aeronautical Engineering,Seattle University,Part Time,Full Time,Winter,Fall,30,5,3,0,yes,yes,97,53
+983,Civil Engineering,University of Washington Bothell,Unemployed,Part Time,Spring,Summer,10,30,2,0,yes,no,24,36
+984,Construction Engineering,University of Washington Bothell,Unemployed,Full Time,Summer,Winter,6,25,2,6,yes,yes,70,39
+985,Civil Engineering,Western Washington University,Unemployed,Full Time,Summer,Summer,24,4,4,6,no,no,69,48
+986,Civil Engineering,Central Washington University,Full Time,Full Time,Spring,Spring,29,17,4,7,no,yes,10,38
+987,General Major,University of Washington Tacoma,Part Time,Part Time,Summer,Summer,30,25,2,7,no,yes,28,69
+988,Mechanical Engineering,Walla Walla University,Full Time,Full Time,Fall,Winter,28,2,2,0,no,no,30,62
+989,Construction Engineering,University of Washington Tacoma,Unemployed,Part Time,Summer,Fall,19,22,3,2,no,no,30,98
+990,Chemical Engineering,University of Washington Bothell,Full Time,Full Time,Fall,Spring,22,16,6,6,no,no,68,34
+991,Aeronautical Engineering,University of Washington Seattle,Full Time,Full Time,Summer,Summer,28,19,4,0,no,no,24,98
+992,Electrical Engineering,Walla Walla University,Part Time,Part Time,Summer,Winter,22,28,1,3,no,yes,16,94
+993,Computer Science,University of Washington Bothell,Unemployed,Part Time,Fall,Summer,1,25,4,3,yes,no,53,85
+994,General Major,University of Washington Bothell,Part Time,Part Time,Winter,Summer,6,6,6,6,no,no,97,96
+995,General Major,University of Washington Seattle,Part Time,Part Time,Spring,Spring,26,26,3,5,yes,yes,0,75
+996,Electrical Engineering,University of Washington Seattle,Part Time,Full Time,Spring,Fall,8,27,6,2,yes,yes,98,51
+997,Computer Science,Eastern Washington University,Full Time,Full Time,Summer,Winter,13,25,6,0,yes,yes,74,74
+998,General Major,Seattle University,Unemployed,Part Time,Summer,Winter,12,12,4,0,yes,no,95,91
+999,Electrical Engineering,Walla Walla University,Full Time,Part Time,Winter,Winter,10,23,6,6,no,yes,9,96

@@ -1,0 +1,291 @@
+,PreferedMajor,PreferedSchool,JobType,PreferedStartQuarter,ActualStartQuarter,PreferedNumberofCore,ActualNumberofCore,PreferedNumberQuarters,ActualNumberQuarters,SummerPref,ActualSummerPref,EnrollmentType,mathSequenceBreak,englishSequenceBreak
+0,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,2.0,6,4,Yes,Yes,Full Time,100.0,100.0
+1,Mechanical Engineering,Washington State University,Part Time,Summer    ,Fall      ,3.5,3.5,6,4,Yes,Yes,Part Time,65.1,65.1
+2,Mechanical Engineering,Washington State University,Unemployed,Spring    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+3,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,1.0,6,3,No,No,Full Time,65.1,65.1
+4,Mechanical Engineering,Washington State University,Part Time,Summer    ,Fall      ,3.5,1.0,6,4,Yes,Yes,Full Time,65.1,65.1
+5,Nursing,Washington State University,Unemployed,Spring    ,Fall      ,3.5,2.0,6,3,No,No,Full Time,100.0,100.0
+6,General Major,Washington State University,Full Time,Spring    ,Fall      ,3.5,2.0,6,4,No,Yes,Full Time,100.0,100.0
+7,Chemical Engineering,University of Washington Seattle,Part Time,Spring    ,Fall      ,3.5,3.0,6,3,Yes,No,Full Time,65.1,65.1
+8,General Major,Washington State University,Unemployed,Spring    ,Winter    ,3.5,1.0,6,2,Yes,No,Part Time,65.1,65.1
+9,Pharmacy,Washington State University,Full Time,Winter    ,Fall      ,3.5,3.0,6,4,Yes,Yes,Part Time,100.0,100.0
+10,Mechanical Engineering,University of Washington Seattle,Part Time,Spring    ,Fall      ,3.5,1.0,6,4,Yes,Yes,Part Time,65.1,65.1
+11,Mechanical Engineering,Washington State University,Unemployed,Fall      ,Fall      ,3.5,3.0,6,3,No,No,Part Time,65.1,65.1
+12,Aeronautics Engineering,University of Washington Seattle,Part Time,Winter    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+13,Mechanical Engineering,Washington State University,Part Time,Winter    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+14,Graphic Design,Washington State University,Part Time,Winter    ,Spring    ,3.5,3.5,6,2,Yes,Yes,Full Time,65.1,65.1
+15,Mechanical Engineering,Washington State University,Full Time,Fall      ,Fall      ,3.5,3.0,6,4,Yes,Yes,Part Time,65.1,65.1
+16,Mechanical Engineering,Washington State University,Unemployed,Fall      ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+17,Mechanical Engineering,Washington State University,Part Time,Winter    ,Winter    ,3.5,1.0,6,2,Yes,No,Part Time,65.1,65.1
+18,Mechanical Engineering,University of Washington Seattle,Part Time,Winter    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+19,General Major,University of Washington Seattle,Unemployed,Winter    ,Fall      ,3.5,3.0,6,3,No,No,Full Time,65.1,65.1
+20,Computer Science,Washington State University,Part Time,Winter    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,100.0,100.0
+21,General Major,Washington State University,Part Time,Spring    ,Winter    ,3.5,1.0,6,2,No,No,Full Time,65.1,65.1
+22,General Major,University of Washington Seattle,Unemployed,Winter    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,84.0,84.0
+23,Computer Science,Washington State University,Unemployed,Winter    ,Fall      ,3.5,2.0,6,3,Yes,No,Part Time,84.0,84.0
+24,Electrical Engineering,Washington State University,Part Time,Winter    ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,65.1,65.1
+25,General Major,University of Washington Seattle,Part Time,Winter    ,Fall      ,3.5,3.0,6,4,No,Yes,Part Time,100.0,100.0
+26,Computer Science,Washington State University,Unemployed,Winter    ,Winter    ,3.5,3.0,6,3,No,Yes,Full Time,100.0,100.0
+27,Pharmacy,Washington State University,Part Time,Fall      ,Fall      ,3.5,3.0,6,4,No,Yes,Full Time,100.0,100.0
+28,Electrical Engineering,Washington State University,Part Time,Winter    ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,65.1,65.1
+29,Computer Science,Washington State University,Part Time,Fall      ,Fall      ,3.5,3.0,6,3,No,No,Full Time,72.0,72.0
+30,Mechanical Engineering,University of Washington Seattle,Unemployed,Winter    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,100.0,100.0
+31,Computer Science,Washington State University,Part Time,Winter    ,Fall      ,3.5,3.0,6,4,No,Yes,Full Time,100.0,100.0
+32,Computer Engineering,University of Washington Bothell,Part Time,Fall      ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,100.0,100.0
+33,General Major,Washington State University,Part Time,Spring    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,65.1,65.1
+34,Electrical Engineering,University of Washington Bothell,Full Time,Winter    ,Winter    ,3.5,1.0,6,1,Yes,No,Full Time,100.0,100.0
+35,Computer Science and Software Engineering,Washington State University,Part Time,Winter    ,Fall      ,3.5,3.0,6,3,No,No,Full Time,100.0,100.0
+36,Computer Science,Washington State University,Full Time,Fall      ,Fall      ,3.5,2.0,6,3,Yes,No,Part Time,100.0,100.0
+37,Electrical Engineering,Washington State University,Part Time,Winter    ,Fall      ,3.5,3.0,6,3,No,No,Part Time,65.1,65.1
+38,General Major,Washington State University,Unemployed,Summer    ,Fall      ,3.5,3.5,6,4,No,Yes,Full Time,65.1,65.1
+39,Mechanical Engineering,Washington State University,Full Time,Winter    ,Fall      ,3.5,3.0,6,3,No,No,Full Time,100.0,100.0
+40,Mechanical Engineering,Washington State University,Part Time,Spring    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,71.0,71.0
+41,Electrical Engineering,Washington State University,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,100.0,100.0
+42,Mechanical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,65.1,65.1
+43,Mechanical Engineering,Washington State University,Full Time,Spring    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Part Time,72.0,72.0
+44,Mechanical Engineering,Eastern Washington University,Full Time,Fall      ,Fall      ,3.5,3.0,6,3,Yes,No,Part Time,100.0,100.0
+45,Mechanical Engineering,Washington State University,Full Time,Winter    ,Fall      ,3.5,4.0,6,4,No,Yes,Part Time,100.0,100.0
+46,Mechanical Engineering,Washington State University,Part Time,Summer    ,Fall      ,3.5,3.0,6,3,No,No,Full Time,100.0,100.0
+47,Mechanical Engineering,Washington State University,Part Time,Winter    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Part Time,100.0,100.0
+48,Computer Science,Washington State University,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,65.1,65.1
+49,Mechanical Engineering,Washington State University,Part Time,Spring    ,Winter    ,3.5,1.0,6,1,No,No,Full Time,100.0,100.0
+50,Computer Science,Washington State University,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,65.1,65.1
+51,Mechanical Engineering,Washington State University,Part Time,Spring    ,Winter    ,3.5,1.0,6,1,No,No,Full Time,100.0,100.0
+52,Computer Science,Washington State University,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,65.1,65.1
+53,Mechanical Engineering,Washington State University,Part Time,Spring    ,Winter    ,3.5,1.0,6,1,No,No,Full Time,100.0,100.0
+54,Computer Science,Washington State University,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,65.1,65.1
+55,Mechanical Engineering,Washington State University,Part Time,Spring    ,Winter    ,3.5,1.0,6,1,No,No,Full Time,100.0,100.0
+56,Computer Science,Washington State University,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,65.1,65.1
+57,General Major,University of Washington Seattle,Unemployed,Winter    ,Winter    ,3.5,1.0,6,1,Yes,No,Full Time,100.0,100.0
+58,Mechanical Engineering,Washington State University,Unemployed,Fall      ,Fall      ,3.5,2.0,6,4,Yes,Yes,Full Time,100.0,100.0
+59,Mechanical Engineering,Washington State University,Part Time,Winter    ,Fall      ,3.5,3.5,6,4,No,Yes,Part Time,65.1,65.1
+60,Mechanical Engineering,Washington State University,Unemployed,Spring    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+61,Mechanical Engineering,Washington State University,Full Time,Fall      ,Fall      ,3.5,1.0,6,3,No,No,Full Time,65.1,65.1
+62,Mechanical Engineering,Washington State University,Part Time,Summer    ,Fall      ,3.5,1.0,6,4,Yes,Yes,Full Time,65.1,65.1
+63,Nursing,Washington State University,Unemployed,Winter    ,Fall      ,3.5,2.0,6,3,No,No,Full Time,100.0,100.0
+64,General Major,Washington State University,Full Time,Spring    ,Fall      ,3.5,2.0,6,4,No,Yes,Full Time,100.0,100.0
+65,Chemical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,3.5,3.0,6,3,Yes,No,Full Time,65.1,65.1
+66,General Major,Washington State University,Unemployed,Summer    ,Winter    ,3.5,1.0,6,2,Yes,No,Part Time,65.1,65.1
+67,Pharmacy,Washington State University,Full Time,Winter    ,Fall      ,3.5,3.0,6,4,No,Yes,Full Time,100.0,100.0
+68,Mechanical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,3.5,1.0,6,4,Yes,Yes,Part Time,65.1,65.1
+69,Mechanical Engineering,Washington State University,Unemployed,Winter    ,Fall      ,3.5,3.0,6,3,No,No,Part Time,65.1,65.1
+70,Aeronautics Engineering,University of Washington Seattle,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,65.1,65.1
+71,Mechanical Engineering,Washington State University,Part Time,Spring    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+72,Graphic Design,Washington State University,Part Time,Fall      ,Spring    ,3.5,3.5,6,2,Yes,Yes,Part Time,65.1,65.1
+73,Mechanical Engineering,Washington State University,Full Time,Summer    ,Fall      ,3.5,3.0,6,4,Yes,Yes,Part Time,65.1,65.1
+74,Mechanical Engineering,Washington State University,Unemployed,Fall      ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,72.0,72.0
+75,Mechanical Engineering,Washington State University,Part Time,Winter    ,Winter    ,3.5,1.0,6,2,Yes,No,Part Time,65.1,65.1
+76,Mechanical Engineering,University of Washington Seattle,Full Time,Spring    ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,72.0,72.0
+77,General Major,University of Washington Seattle,Full Time,Summer    ,Fall      ,3.5,3.0,6,3,No,No,Full Time,65.1,65.1
+78,Computer Science,Washington State University,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,65.1,65.1
+79,General Major,University of Washington Seattle,Unemployed,Winter    ,Winter    ,3.5,1.0,6,1,Yes,No,Full Time,100.0,100.0
+80,Mechanical Engineering,Washington State University,Unemployed,Fall      ,Fall      ,3.5,2.0,6,4,Yes,Yes,Full Time,100.0,100.0
+81,Mechanical Engineering,Washington State University,Part Time,Winter    ,Fall      ,3.5,3.5,6,4,No,Yes,Part Time,65.1,65.1
+82,Mechanical Engineering,Washington State University,Unemployed,Spring    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+83,Mechanical Engineering,Washington State University,Full Time,Fall      ,Fall      ,3.5,1.0,6,3,No,No,Full Time,65.1,65.1
+84,Mechanical Engineering,Washington State University,Part Time,Summer    ,Fall      ,3.5,1.0,6,4,Yes,Yes,Full Time,65.1,65.1
+85,Nursing,Washington State University,Unemployed,Winter    ,Fall      ,3.5,2.0,6,3,No,No,Full Time,100.0,100.0
+86,General Major,Washington State University,Full Time,Spring    ,Fall      ,3.5,2.0,6,4,No,Yes,Full Time,100.0,100.0
+87,Chemical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,3.5,3.0,6,3,Yes,No,Full Time,65.1,65.1
+88,General Major,Washington State University,Unemployed,Summer    ,Winter    ,3.5,1.0,6,2,Yes,No,Part Time,65.1,65.1
+89,Pharmacy,Washington State University,Full Time,Winter    ,Fall      ,3.5,3.0,6,4,No,Yes,Full Time,100.0,100.0
+90,Mechanical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,3.5,1.0,6,4,Yes,Yes,Part Time,65.1,65.1
+91,Mechanical Engineering,Washington State University,Unemployed,Winter    ,Fall      ,3.5,3.0,6,3,No,No,Part Time,65.1,65.1
+92,Aeronautics Engineering,University of Washington Seattle,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,65.1,65.1
+93,Mechanical Engineering,Washington State University,Part Time,Spring    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+94,Graphic Design,Washington State University,Part Time,Fall      ,Spring    ,3.5,3.5,6,2,Yes,Yes,Part Time,65.1,65.1
+95,Mechanical Engineering,Washington State University,Full Time,Summer    ,Fall      ,3.5,3.0,6,4,Yes,Yes,Part Time,65.1,65.1
+96,Mechanical Engineering,Washington State University,Unemployed,Fall      ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,72.0,72.0
+97,Mechanical Engineering,Washington State University,Part Time,Winter    ,Winter    ,3.5,1.0,6,2,Yes,No,Part Time,65.1,65.1
+98,Mechanical Engineering,University of Washington Seattle,Full Time,Spring    ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,72.0,72.0
+99,General Major,University of Washington Seattle,Full Time,Summer    ,Fall      ,3.5,3.0,6,3,No,No,Full Time,65.1,65.1
+100,Computer Science,Washington State University,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,65.1,65.1
+101,General Major,University of Washington Seattle,Unemployed,Winter    ,Winter    ,3.5,1.0,6,1,Yes,No,Full Time,100.0,100.0
+102,Mechanical Engineering,Washington State University,Unemployed,Fall      ,Fall      ,3.5,2.0,6,4,Yes,Yes,Full Time,100.0,100.0
+103,Mechanical Engineering,Washington State University,Part Time,Winter    ,Fall      ,3.5,3.5,6,4,No,Yes,Part Time,65.1,65.1
+104,Mechanical Engineering,Washington State University,Unemployed,Spring    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+105,Mechanical Engineering,Washington State University,Full Time,Fall      ,Fall      ,3.5,1.0,6,3,No,No,Full Time,65.1,65.1
+106,Mechanical Engineering,Washington State University,Part Time,Summer    ,Fall      ,3.5,1.0,6,4,Yes,Yes,Full Time,65.1,65.1
+107,Nursing,Washington State University,Unemployed,Winter    ,Fall      ,3.5,2.0,6,3,No,No,Full Time,100.0,100.0
+108,General Major,Washington State University,Full Time,Spring    ,Fall      ,3.5,2.0,6,4,No,Yes,Full Time,100.0,100.0
+109,Chemical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,3.5,3.0,6,3,Yes,No,Full Time,65.1,65.1
+110,General Major,Washington State University,Unemployed,Summer    ,Winter    ,3.5,1.0,6,2,Yes,No,Part Time,65.1,65.1
+111,Pharmacy,Washington State University,Full Time,Winter    ,Fall      ,3.5,3.0,6,4,No,Yes,Full Time,100.0,100.0
+112,Mechanical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,3.5,1.0,6,4,Yes,Yes,Part Time,65.1,65.1
+113,Mechanical Engineering,Washington State University,Unemployed,Winter    ,Fall      ,3.5,3.0,6,3,No,No,Part Time,65.1,65.1
+114,Aeronautics Engineering,University of Washington Seattle,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,65.1,65.1
+115,Mechanical Engineering,Washington State University,Part Time,Spring    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+116,Graphic Design,Washington State University,Part Time,Fall      ,Spring    ,3.5,3.5,6,2,Yes,Yes,Part Time,65.1,65.1
+117,Mechanical Engineering,Washington State University,Full Time,Summer    ,Fall      ,3.5,3.0,6,4,Yes,Yes,Part Time,65.1,65.1
+118,Mechanical Engineering,Washington State University,Unemployed,Fall      ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,72.0,72.0
+119,Mechanical Engineering,Washington State University,Part Time,Winter    ,Winter    ,3.5,1.0,6,2,Yes,No,Part Time,65.1,65.1
+120,Mechanical Engineering,University of Washington Seattle,Full Time,Spring    ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,72.0,72.0
+121,General Major,University of Washington Seattle,Full Time,Summer    ,Fall      ,3.5,3.0,6,3,No,No,Full Time,65.1,65.1
+122,Computer Science,Washington State University,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,65.1,65.1
+123,General Major,University of Washington Seattle,Unemployed,Winter    ,Winter    ,3.5,1.0,6,1,Yes,No,Full Time,100.0,100.0
+124,General Major,University of Washington Seattle,Unemployed,Winter    ,Fall      ,3.5,1.0,6,3,Yes,No,Full Time,100.0,100.0
+125,General Major,University of Washington Seattle,Unemployed,Winter    ,Fall      ,3.5,1.0,6,3,Yes,No,Full Time,100.0,100.0
+126,General Major,University of Washington Seattle,Unemployed,Winter    ,Fall      ,3.5,1.0,6,3,Yes,No,Full Time,100.0,100.0
+127,Electrical Engineering,Washington State University,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,65.1,65.1
+128,Computer Science,Washington State University,Unemployed,Spring    ,Winter    ,3.5,2.0,6,2,No,No,Full Time,65.1,65.1
+129,Pharmacy,Washington State University,Full Time,Fall      ,Fall      ,3.5,3.0,6,4,No,Yes,Full Time,65.1,65.1
+130,Electrical Engineering,Washington State University,Part Time,Summer    ,Fall      ,3.5,4.0,6,4,No,Yes,Part Time,65.1,65.1
+131,Computer Science,Washington State University,Full Time,Summer    ,Fall      ,3.5,3.0,6,3,No,No,Full Time,65.1,65.1
+132,Mechanical Engineering,University of Washington Seattle,Unemployed,Fall      ,Fall      ,3.5,4.0,6,4,Yes,Yes,Part Time,100.0,100.0
+133,Computer Science,Washington State University,Part Time,Spring    ,Fall      ,3.5,3.0,6,3,No,No,Part Time,100.0,100.0
+134,Computer Engineering,University of Washington Bothell,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+135,Computer Science and Software Engineering,Washington State University,Full Time,Winter    ,Fall      ,3.5,3.0,6,3,Yes,No,Full Time,65.1,65.1
+136,Computer Science,Washington State University,Full Time,Fall      ,Fall      ,3.5,2.0,6,3,Yes,No,Full Time,100.0,100.0
+137,Electrical Engineering,Washington State University,Part Time,Winter    ,Fall      ,3.5,3.5,6,3,No,No,Part Time,65.1,65.1
+138,Mechanical Engineering,Washington State University,Full Time,Spring    ,Fall      ,3.5,3.0,6,3,Yes,No,Full Time,100.0,100.0
+139,Mechanical Engineering,Washington State University,Part Time,Spring    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Part Time,65.1,65.1
+140,Electrical Engineering,Washington State University,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,100.0,100.0
+141,Mechanical Engineering,University of Washington Seattle,Full Time,Summer    ,Fall      ,3.5,3.0,6,3,No,No,Full Time,65.1,65.1
+142,Mechanical Engineering,Washington State University,Full Time,Spring    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Part Time,65.1,65.1
+143,Mechanical Engineering,Washington State University,Full Time,Summer    ,Fall      ,3.5,3.0,6,3,Yes,No,Part Time,100.0,100.0
+144,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,4.0,6,4,No,Yes,Part Time,100.0,100.0
+145,General Major,University of Washington Seattle,Unemployed,Winter    ,Fall      ,3.5,1.0,6,3,Yes,No,Full Time,100.0,100.0
+146,Mechanical Engineering,Washington State University,Unemployed,Fall      ,Fall      ,3.5,2.0,6,4,Yes,Yes,Full Time,100.0,100.0
+147,Mechanical Engineering,Washington State University,Part Time,Winter    ,Fall      ,3.5,3.5,6,4,No,Yes,Part Time,65.1,65.1
+148,Mechanical Engineering,Washington State University,Unemployed,Spring    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+149,Mechanical Engineering,Washington State University,Full Time,Fall      ,Fall      ,3.5,1.0,6,3,No,No,Full Time,65.1,65.1
+150,Mechanical Engineering,Washington State University,Part Time,Summer    ,Fall      ,3.5,1.0,6,4,Yes,Yes,Full Time,65.1,65.1
+151,Nursing,Washington State University,Unemployed,Winter    ,Fall      ,3.5,2.0,6,3,No,No,Full Time,100.0,100.0
+152,General Major,Washington State University,Full Time,Spring    ,Fall      ,3.5,2.0,6,4,No,Yes,Full Time,100.0,100.0
+153,Chemical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,3.5,3.0,6,3,Yes,No,Full Time,65.1,65.1
+154,General Major,Washington State University,Unemployed,Summer    ,Winter    ,3.5,1.0,6,2,Yes,No,Part Time,65.1,65.1
+155,Pharmacy,Washington State University,Full Time,Winter    ,Fall      ,3.5,3.0,6,4,No,Yes,Full Time,100.0,100.0
+156,Mechanical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,3.5,1.0,6,4,Yes,Yes,Part Time,65.1,65.1
+157,Mechanical Engineering,Washington State University,Unemployed,Winter    ,Fall      ,3.5,3.0,6,3,No,No,Part Time,65.1,65.1
+158,Aeronautics Engineering,University of Washington Seattle,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,65.1,65.1
+159,Mechanical Engineering,Washington State University,Part Time,Spring    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+160,Graphic Design,Washington State University,Part Time,Fall      ,Spring    ,3.5,3.5,6,2,Yes,Yes,Part Time,65.1,65.1
+161,Mechanical Engineering,Washington State University,Full Time,Summer    ,Fall      ,3.5,3.0,6,4,Yes,Yes,Part Time,65.1,65.1
+162,Mechanical Engineering,Washington State University,Unemployed,Fall      ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,72.0,72.0
+163,Mechanical Engineering,Washington State University,Part Time,Winter    ,Winter    ,3.5,1.0,6,2,Yes,No,Part Time,65.1,65.1
+164,Mechanical Engineering,University of Washington Seattle,Full Time,Spring    ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,72.0,72.0
+165,General Major,University of Washington Seattle,Full Time,Summer    ,Fall      ,3.5,3.0,6,3,No,No,Full Time,65.1,65.1
+166,Computer Science,Washington State University,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,65.1,65.1
+167,General Major,University of Washington Seattle,Unemployed,Winter    ,Fall      ,3.5,1.0,6,3,Yes,No,Full Time,100.0,100.0
+168,Electrical Engineering,Washington State University,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,65.1,65.1
+169,Computer Science,Washington State University,Unemployed,Spring    ,Winter    ,3.5,2.0,6,2,No,No,Full Time,65.1,65.1
+170,Pharmacy,Washington State University,Full Time,Fall      ,Fall      ,3.5,3.0,6,4,No,Yes,Full Time,65.1,65.1
+171,Electrical Engineering,Washington State University,Part Time,Summer    ,Fall      ,3.5,4.0,6,4,No,Yes,Part Time,65.1,65.1
+172,Computer Science,Washington State University,Full Time,Summer    ,Fall      ,3.5,3.0,6,3,No,No,Full Time,65.1,65.1
+173,Mechanical Engineering,University of Washington Seattle,Unemployed,Fall      ,Fall      ,3.5,4.0,6,4,Yes,Yes,Part Time,100.0,100.0
+174,Computer Science,Washington State University,Part Time,Spring    ,Fall      ,3.5,3.0,6,3,No,No,Part Time,100.0,100.0
+175,Computer Engineering,University of Washington Bothell,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+176,Computer Science and Software Engineering,Washington State University,Full Time,Winter    ,Fall      ,3.5,3.0,6,3,Yes,No,Full Time,65.1,65.1
+177,Computer Science,Washington State University,Full Time,Fall      ,Fall      ,3.5,2.0,6,3,Yes,No,Full Time,100.0,100.0
+178,Electrical Engineering,Washington State University,Part Time,Winter    ,Fall      ,3.5,3.5,6,3,No,No,Part Time,65.1,65.1
+179,Mechanical Engineering,Washington State University,Full Time,Spring    ,Fall      ,3.5,3.0,6,3,Yes,No,Full Time,100.0,100.0
+180,Mechanical Engineering,Washington State University,Part Time,Spring    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Part Time,65.1,65.1
+181,Electrical Engineering,Washington State University,Full Time,Fall      ,Fall      ,3.5,4.0,6,4,No,Yes,Full Time,100.0,100.0
+182,Mechanical Engineering,University of Washington Seattle,Full Time,Summer    ,Fall      ,3.5,3.0,6,3,No,No,Full Time,65.1,65.1
+183,Mechanical Engineering,Washington State University,Full Time,Spring    ,Fall      ,3.5,4.0,6,4,Yes,Yes,Part Time,65.1,65.1
+184,Mechanical Engineering,Washington State University,Full Time,Summer    ,Fall      ,3.5,3.0,6,3,Yes,No,Part Time,100.0,100.0
+185,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,4.0,6,4,No,Yes,Part Time,100.0,100.0
+186,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,3.5,6,1,No,No,Part Time,65.1,65.1
+187,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,No,No,Part Time,65.1,65.1
+188,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,No,No,Part Time,65.1,65.1
+189,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,No,No,Part Time,65.1,65.1
+190,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,No,No,Part Time,65.1,65.1
+191,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,No,No,Part Time,65.1,65.1
+192,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,No,No,Part Time,65.1,65.1
+193,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,No,No,Part Time,65.1,65.1
+194,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,No,No,Part Time,65.1,65.1
+195,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,No,No,Part Time,65.1,65.1
+196,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,No,No,Part Time,65.1,65.1
+197,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,No,No,Part Time,65.1,65.1
+198,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,No,No,Full Time,65.1,65.1
+199,Mechanical Engineering,Washington State University,Full Time,Summer    ,Fall      ,3.5,1.0,6,2,Yes,No,Part Time,65.1,65.1
+200,Mechanical Engineering,Washington State University,Unemployed,Fall      ,Fall      ,3.5,1.0,6,2,Yes,No,Full Time,65.1,65.1
+201,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,No,No,Part Time,65.1,65.1
+202,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,No,No,Part Time,65.1,65.1
+203,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,No,No,Part Time,65.1,65.1
+204,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,5.0,1.0,6,2,yes,No,Full Time,65.1,65.1
+205,Mechanical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,Yes,No,Part Time,65.1,65.1
+206,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,5.0,1.0,6,2,yes,No,Full Time,65.1,65.1
+207,Mechanical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,5.0,1.0,6,2,yes,No,Full Time,65.1,65.1
+208,Mechanical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,5.0,1.0,6,2,yes,No,Full Time,65.1,65.1
+209,Mechanical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,3.5,1.0,6,2,Yes,No,Part Time,65.1,65.1
+210,Mechanical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,5.0,1.0,6,2,yes,No,Full Time,65.1,65.1
+211,Mechanical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,5.0,1.0,6,2,yes,No,Full Time,65.1,65.1
+212,Mechanical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,5.0,1.0,6,2,yes,No,Full Time,65.1,65.1
+213,Mechanical Engineering,Washington State University,Full Time,Fall      ,Fall      ,2.0,1.0,6,2,no,No,Full Time,65.1,65.1
+214,Electrical Engineering,Washington State University,Full Time,Spring    ,Fall      ,1.0,1.0,9,3,No,No,Full Time,100.0,100.0
+215,Electrical Engineering,Washington State University,Part Time,Spring    ,Fall      ,2.0,4.0,8,4,Yes,Yes,Full Time,57.0,57.0
+216,Mechanical Engineering,Washington State University,Part Time,Spring    ,Fall      ,2.0,2.0,5,4,Yes,Yes,Full Time,65.1,65.1
+217,Civil Engineering,University of Washington Seattle,Unemployed,Winter    ,Fall      ,3.0,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+218,Mechanical Engineering,University of Washington Seattle,Unemployed,Fall      ,Fall      ,2.0,3.0,3,3,No,No,Full Time,72.0,72.0
+219,Electrical Engineering,Washington State University,Unemployed,Winter    ,Fall      ,3.0,4.0,5,4,Yes,Yes,Full Time,100.0,100.0
+220,Mechanical Engineering,University of Washington Seattle,Unemployed,Winter    ,Fall      ,3.0,4.0,10,4,Yes,Yes,Full Time,72.0,72.0
+221,Mechanical Engineering,Washington State University,Unemployed,Spring    ,Fall      ,3.0,3.0,6,4,Yes,Yes,Full Time,0.0,0.0
+222,Electrical Engineering,Washington State University,Unemployed,Spring    ,Fall      ,3.0,3.0,7,4,Yes,Yes,Full Time,72.0,72.0
+223,Electrical Engineering,University of Washington Seattle,Unemployed,Summer    ,Fall      ,2.0,4.0,11,4,Yes,Yes,Full Time,53.0,53.0
+224,Electrical Engineering,Washington State University,Part Time,Spring    ,Fall      ,3.0,4.0,9,4,Yes,Yes,Full Time,100.0,100.0
+225,Electrical Engineering,Washington State University,Unemployed,Summer    ,Fall      ,3.0,4.0,8,4,Yes,Yes,Full Time,72.0,72.0
+226,Civil Engineering,University of Washington Seattle,Part Time,Spring    ,Spring    ,2.0,2.0,2,2,Yes,Yes,Full Time,65.1,65.1
+227,Mechanical Engineering,Washington State University,Part Time,Winter    ,Winter    ,3.0,1.0,1,1,No,No,Full Time,65.1,65.1
+228,Mechanical Engineering,University of Washington Seattle,Part Time,Winter    ,Fall      ,2.0,2.0,5,3,No,No,Full Time,65.1,65.1
+229,Mechanical Engineering,University of Washington Seattle,Part Time,Spring    ,Fall      ,2.0,4.0,7,4,Yes,Yes,Full Time,65.1,65.1
+230,Mechanical Engineering,University of Washington Seattle,Part Time,Winter    ,Fall      ,2.0,4.0,9,4,Yes,Yes,Full Time,100.0,100.0
+231,Mechanical Engineering,University of Washington Seattle,Full Time,Winter    ,Fall      ,2.0,1.0,4,3,No,No,Full Time,65.1,65.1
+232,Mechanical Engineering,University of Washington Bothell,Part Time,Spring    ,Fall      ,2.0,4.0,9,4,Yes,Yes,Full Time,0.0,0.0
+233,Mechanical Engineering,Washington State University,Part Time,Winter    ,Fall      ,2.0,4.0,10,4,Yes,Yes,Full Time,54.0,54.0
+234,Mechanical Engineering,Eastern Washington University,Unemployed,Spring    ,Fall      ,3.0,3.0,10,4,Yes,Yes,Full Time,65.1,65.1
+235,Civil Engineering,Seattle University,Full Time,Summer    ,Fall      ,1.0,3.0,7,4,Yes,Yes,Part Time,65.1,65.1
+236,Mechanical Engineering,University of Washington Seattle,Unemployed,Spring    ,Fall      ,3.0,4.0,8,4,Yes,Yes,Full Time,43.0,43.0
+237,Mechanical Engineering,University of Washington Seattle,Unemployed,Winter    ,Fall      ,3.0,4.0,11,4,Yes,Yes,Full Time,36.0,36.0
+238,Mechanical Engineering,Washington State University,Part Time,Winter    ,Fall      ,2.0,1.0,6,4,Yes,Yes,Full Time,65.1,65.1
+239,Civil Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,2.0,4.0,5,4,Yes,Yes,Full Time,0.0,0.0
+240,Civil Engineering,University of Washington Seattle,Unemployed,Summer    ,Fall      ,3.0,3.0,4,4,Yes,Yes,Full Time,65.1,65.1
+241,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,3.0,4.0,12,4,Yes,Yes,Full Time,48.0,48.0
+242,Civil Engineering,Washington State University,Part Time,Winter    ,Fall      ,3.0,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+243,Mechanical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,2.0,3.0,5,3,No,No,Full Time,0.0,0.0
+244,Mechanical Engineering,University of Washington Seattle,Part Time,Fall      ,Fall      ,2.0,3.0,5,3,No,No,Full Time,0.0,0.0
+245,Electrical Engineering,University of Washington Seattle,Unemployed,Spring    ,Fall      ,3.0,3.0,7,4,Yes,Yes,Full Time,72.0,72.0
+246,Mechanical Engineering,Washington State University,Unemployed,Summer    ,Fall      ,3.0,2.0,5,4,Yes,Yes,Full Time,72.0,72.0
+247,Mechanical Engineering,University of Washington Seattle,Unemployed,Summer    ,Fall      ,3.0,2.0,5,4,Yes,Yes,Full Time,72.0,72.0
+248,Mechanical Engineering,Washington State University,Part Time,Spring    ,Fall      ,3.0,3.0,7,4,Yes,Yes,Full Time,65.1,65.1
+249,Mechanical Engineering,University of Washington Seattle,Part Time,Spring    ,Fall      ,3.0,3.0,7,4,Yes,Yes,Full Time,65.1,65.1
+250,Civil Engineering,University of Washington Seattle,Part Time,Winter    ,Fall      ,2.0,2.0,6,3,No,No,Full Time,65.1,65.1
+251,Mechanical Engineering,Washington State University,Part Time,Summer    ,Fall      ,3.0,4.0,9,4,Yes,Yes,Full Time,100.0,100.0
+252,Mechanical Engineering,University of Washington Seattle,Part Time,Summer    ,Fall      ,2.0,4.0,9,4,Yes,Yes,Full Time,100.0,100.0
+253,Electrical Engineering,University of Washington Seattle,Part Time,Spring    ,Fall      ,2.0,4.0,8,4,Yes,Yes,Full Time,53.0,53.0
+254,Mechanical Engineering,Washington State University,Part Time,Spring    ,Fall      ,2.0,4.0,9,4,Yes,Yes,Full Time,0.0,0.0
+255,Mechanical Engineering,University of Washington Seattle,Part Time,Winter    ,Fall      ,3.0,4.0,11,4,Yes,Yes,Full Time,54.0,54.0
+256,Mechanical Engineering,Washington State University,Part Time,Summer    ,Fall      ,3.0,4.0,5,4,Yes,Yes,Full Time,72.0,72.0
+257,Civil Engineering,University of Washington Seattle,Full Time,Summer    ,Fall      ,1.0,3.0,8,4,Yes,Yes,Part Time,65.1,65.1
+258,Civil Engineering,University of Washington Seattle,Part Time,Spring    ,Fall      ,2.0,4.0,9,4,Yes,Yes,Full Time,32.0,32.0
+259,Business,Western Washington University,Full Time,Fall      ,Fall      ,5.0,3.0,20,3,no,No,Full Time,77.0,77.0
+260,Business,Western Washington University,Full Time,Fall      ,Fall      ,5.0,3.0,20,3,no,No,Full Time,77.0,77.0
+261,Business,Western Washington University,Full Time,Fall      ,Fall      ,5.0,3.0,20,3,no,No,Full Time,77.0,77.0
+262,Mechanical Engineering,Washington State University,Part Time,Fall      ,Fall      ,2.0,3.0,10,4,Yes,Yes,Full Time,72.0,72.0
+263,Mechanical Engineering,Washington State University,Unemployed,Winter    ,Winter    ,3.0,2.0,4,3,Yes,Yes,Full Time,65.1,65.1
+264,Mechanical Engineering,Washington State University,Full Time,Spring    ,Fall      ,3.0,3.0,7,3,No,No,Full Time,100.0,100.0
+265,Civil Engineering,Seattle University,Part Time,Summer    ,Fall      ,3.0,4.0,5,4,Yes,Yes,Full Time,65.1,65.1
+266,Electrical Engineering,Washington State University,Part Time,Spring    ,Fall      ,2.0,2.0,6,4,Yes,Yes,Part Time,0.0,0.0
+267,Mechanical Engineering,University of Washington Seattle,Part Time,Spring    ,Winter    ,2.0,1.0,3,2,No,No,Part Time,65.1,65.1
+268,Civil Engineering,University of Washington Seattle,Part Time,Summer    ,Fall      ,3.0,4.0,5,4,Yes,Yes,Full Time,65.1,65.1
+269,Electrical Engineering,University of Washington Seattle,Unemployed,Winter    ,Fall      ,2.0,4.0,9,4,Yes,Yes,Full Time,0.0,0.0
+270,Mechanical Engineering,Washington State University,Part Time,Winter    ,Fall      ,1.0,4.0,11,4,Yes,Yes,Full Time,72.0,72.0
+271,Mechanical Engineering,Washington State University,Part Time,Spring    ,Fall      ,2.0,3.0,7,4,Yes,Yes,Part Time,72.0,72.0
+272,Electrical Engineering,Washington State University,Full Time,Winter    ,Winter    ,1.0,1.0,4,3,Yes,Yes,Part Time,72.0,72.0
+273,"Pre-Engineering – Mechanical, Civil, Aeronautical, Industrial, Materials Science",University of Washington Seattle,Unemployed,Spring    ,Fall      ,2.0,4.0,6,4,Yes,Yes,Full Time,65.1,65.1
+274,Pre-Engineering – General Engineering Transfer,Washington State University,Part Time,Winter    ,Fall      ,2.0,4.0,5,4,Yes,Yes,Full Time,72.0,72.0
+275,Mechanical Engineering,Washington State University,Part Time,Winter    ,Fall      ,1.0,4.0,12,4,Yes,Yes,Part Time,0.0,0.0
+276,Mechanical Engineering,University of Washington Seattle,Unemployed,Fall      ,Fall      ,2.0,2.0,5,3,Yes,No,Full Time,65.1,65.1
+277,Mechanical Engineering,University of Washington Seattle,Part Time,Winter    ,Fall      ,2.0,1.0,5,4,Yes,Yes,Part Time,65.1,65.1
+278,Electrical Engineering,Washington State University,Unemployed,Spring    ,Fall      ,2.0,4.0,6,4,Yes,Yes,Full Time,72.0,72.0
+279,Civil Engineering,Washington State University,Part Time,Summer    ,Fall      ,2.0,4.0,5,4,Yes,Yes,Full Time,65.1,65.1
+280,Mechanical Engineering,University of Washington Bothell,Part Time,Winter    ,Fall      ,2.0,4.0,12,4,Yes,Yes,Part Time,0.0,0.0
+281,Computer Engineering,University of Washington Seattle,Unemployed,Fall      ,Fall      ,2.0,3.5,3,3,No,No,Full Time,65.1,65.1
+282,"Pre-Engineering – Mechanical, Civil, Aeronautical, Industrial, Materials Science",University of Washington Seattle,Part Time,Winter    ,Fall      ,1.0,4.0,11,4,Yes,Yes,Part Time,65.1,65.1
+283,Electrical Engineering,University of Washington Bothell,Part Time,Summer    ,Fall      ,1.0,4.0,10,4,Yes,Yes,Part Time,65.1,65.1
+284,Electrical Engineering,Washington State University,Part Time,Fall      ,Fall      ,2.0,4.0,10,4,Yes,Yes,Full Time,72.0,72.0
+285,Mechanical Engineering,University of Washington Seattle,Part Time,Spring    ,Fall      ,3.0,3.0,7,4,Yes,Yes,Full Time,0.0,0.0
+286,Mechanical Engineering,Washington State University,Part Time,Spring    ,Fall      ,2.0,1.0,6,4,Yes,Yes,Full Time,0.0,0.0
+287,Electrical Engineering,Washington State University,Part Time,Spring    ,Fall      ,3.0,3.0,7,3,No,No,Full Time,100.0,100.0
+288,Electrical Engineering,Washington State University,Part Time,Winter    ,Fall      ,2.0,4.0,9,4,Yes,Yes,Full Time,0.0,0.0
+289,Mechanical Engineering,Washington State University,Full Time,Winter    ,Fall      ,2.0,4.0,11,4,Yes,Yes,Part Time,72.0,72.0

@@ -1,0 +1,21 @@
+,major,PreferedCollege,JobType,EnrollmentType,PreferedStartQuarter,ActualStartQuarter,PreferedNumberQuarters,ActualNumberQuarters,PreferedNumberofCore,ActualNumberofCore,SummerPref,ActualSummerPref
+0,Computer Science,Western Washington University,Unemployed,Part Time,Winter,Spring,1,17,2,4,yes,yes
+1,Aeronautical Engineering,Central Washington University,Unemployed,Full Time,Spring,Winter,18,4,1,5,no,yes
+2,Mechanical Engineering,University of Washington Tacoma,Full Time,Part Time,Winter,Summer,3,11,1,0,no,yes
+3,Construction Engineering,Western Washington University,Unemployed,Full Time,Spring,Spring,12,17,2,7,no,yes
+4,General Major,Seattle University,Unemployed,Full Time,Fall,Winter,2,1,4,2,yes,no
+5,Construction Engineering,Eastern Washington University,Unemployed,Full Time,Fall,Summer,12,14,4,3,yes,no
+6,Electrical Engineering,Western Washington University,Unemployed,Full Time,Winter,Winter,12,18,1,0,yes,yes
+7,Mechanical Engineering,Western Washington University,Part Time,Part Time,Summer,Winter,14,14,3,4,no,yes
+8,General Major,University of Washington Bothell,Part Time,Part Time,Fall,Fall,12,15,3,1,no,no
+9,Mechanical Engineering,University of Washington Seattle,Unemployed,Full Time,Fall,Winter,20,4,6,0,yes,no
+10,Aeronautical Engineering,University of Washington Seattle,Unemployed,Full Time,Fall,Fall,13,20,2,7,yes,yes
+11,Electrical Engineering,Washington State University,Full Time,Full Time,Fall,Spring,8,5,5,6,no,yes
+12,Construction Engineering,Washington State University,Unemployed,Part Time,Fall,Winter,13,12,6,2,no,yes
+13,Electrical Engineering,Washington State University,Part Time,Full Time,Spring,Winter,5,1,4,0,no,yes
+14,Civil Engineering,Eastern Washington University,Full Time,Part Time,Spring,Spring,4,1,3,4,yes,yes
+15,Civil Engineering,Seattle University,Unemployed,Part Time,Summer,Fall,13,7,3,1,no,no
+16,Aeronautical Engineering,Central Washington University,Part Time,Part Time,Summer,Fall,12,11,6,6,no,yes
+17,General Major,Western Washington University,Full Time,Part Time,Spring,Spring,1,11,3,1,yes,yes
+18,Electrical Engineering,University of Washington Seattle,Unemployed,Full Time,Winter,Spring,2,20,4,4,no,no
+19,General Major,Western Washington University,Full Time,Full Time,Spring,Fall,11,2,1,4,yes,no
