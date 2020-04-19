@@ -14,14 +14,14 @@ import pandas as pd
                   port= 1433,
               database= 'VsaDev',
               username= 'sa',
-              password= 'H4ZXZy-vRZwL#9A')
+              password= 'pwd')
         )
 
 config = dict(server= '65.175.68.34',
                   port= 1433,
               database= 'VsaDev',
               username= 'sa',
-              password= 'H4ZXZy-vRZwL#9A')
+              password= 'pwd')
 
 conn_str = ('SERVER={server},{port};'   +
             'DATABASE={database};'      +
